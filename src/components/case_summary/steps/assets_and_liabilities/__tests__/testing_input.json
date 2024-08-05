@@ -1,0 +1,126 @@
+[
+    {
+        "applicant_id": 28,
+        "personal_data": {
+            "title": "exampleTitle",
+            "forename": "exampleForename",
+            "middle_name": "exampleMiddlename",
+            "surname": "exampleSurname",
+            "other_name": "exampleOthername",
+            "date_of_birth": "2020-05-16",
+            "city_of_birth": "exampleCityOfBirth",
+            "insurance_number": "exampleInsuranceNumber",
+            "nationality": "exampleNationality",
+            "permanent_resident": false,
+            "marital_status": "single",
+            "mothers_maiden_name": "exampleMothersName"
+        },
+        "contact": {
+            "email": "example@test.com",
+            "home_phone": "123123123",
+            "mobile_phone": "123123123",
+            "contact_method": "phone",
+            "number_of_dependants": "2"
+        },
+        "declarations_signatures": {},
+        "addresses": [
+            {
+                "country": "Wielka Brytania"
+            }
+        ],
+        "credit_history": {},
+        "liabilities": [],
+        "assets": [],
+        "property_portfolio": [
+            {
+                "address_line_1": "exampleAddressLine1",
+                "address_line_2": "exampleAddressLine2",
+                "postcode": "examplePostcode",
+                "city": "exampleCity",
+                "country": "exampleCountry",
+                "name_of_lender": "exampleNameOfLender",
+                "estimated_value": 123,
+                "current_debt": 123,
+                "monthly_mortgage": 123,
+                "monthly_rental": 123
+            }
+        ]
+    },
+    {
+        "applicant_id": 29,
+        "personal_data": {
+            "title": "exampleTitle2",
+            "forename": "exampleForename2",
+            "middle_name": "exampleMiddlename2",
+            "surname": "exampleSurname2",
+            "other_name": "exampleOthername2",
+            "mothers_maiden_name": "exampleMothersName2"
+        },
+        "contact": {},
+        "declarations_signatures": {},
+        "addresses": [
+            {
+                "address_line_1": "12-18 Hoxton Street"
+            },
+            {},
+            {
+                "address_line_1": "exampleAddressLine12",
+                "address_line_2": "exampleAddressLine22",
+                "postcode": "examplePostcode2",
+                "city": "exampleCity2",
+                "country": "exampleCountry2"
+            },
+            {
+                "address_line_1": "exampleAddressLine13",
+                "address_line_2": "exampleAddressLine23",
+                "postcode": "examplePostcode3",
+                "city": "exampleCity3",
+                "country": "exampleCountry3"
+            }
+        ],
+        "credit_history": {},
+        "liabilities": [
+            {
+                "description": "another liability1",
+                "net_value": 123
+            },
+            {
+                "description": "another liability2",
+                "net_value": 111
+            }
+        ],
+        "assets": [
+            {
+                "type": "vehicle",
+                "description": "exampleCar",
+                "gross_value": 123123,
+                "outstanding_debt": 123,
+                "net_value": 123123
+            },
+            {
+                "type": "equities",
+                "description": "exampleEquityName",
+                "gross_value": 21311,
+                "outstanding_debt": 11,
+                "net_value": 21311
+            }
+        ],
+        "property_portfolio": [
+            {
+                "address_line_1": "exampleAddressLine4",
+                "address_line_2": "exampleAddressLine4",
+                "postcode": "examplePostcode4",
+                "city": "exampleCity4",
+                "country": "exampleCountry4",
+                "estimated_value": 111,
+                "current_debt": 111,
+                "monthly_mortgage": 111,
+                "monthly_rental": 111
+            }
+        ],
+        "assets_liabilities_additional": {
+            "total_liabilities": 111,
+            "total_assets": 111
+        }
+    }
+]

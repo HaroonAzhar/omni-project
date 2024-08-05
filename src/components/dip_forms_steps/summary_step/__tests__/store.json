@@ -1,0 +1,150 @@
+{
+  "preApplication": {
+    "whichApplicantStepToShow": "individual",
+    "value_type_of_arrangement_fee_advance_date": "value",
+    "arrangement_fee_advance_date": 12,
+    "value_type_of_intermediary_commission_fee": "percent",
+    "intermediary_commission_fee": 1.33,
+    "date_created": "2020-07-22T10:24:40.347Z",
+    "type_of_introducer": "via_broker",
+    "dip_id": 40,
+    "dip_form_id": "89c7bcf1-1ba4-4df9-acda-21a40571e3c2",
+    "case_nr": "10070-USER",
+    "stage": "dip",
+    "editing_as_dip": false,
+    "fk_case_id": 40,
+    "fk_contact_id": 40,
+    "fk_loan_property_development_id": 40,
+    "loan_advance_type": "single",
+    "type_of_applicant": "individual",
+    "contact_id": 40,
+    "company_number": "SC08503849",
+    "building_type": "non_development",
+    "fk_loan_financial_details_id": 40,
+    "loan_term": 12,
+    "type_of_loan": "retained",
+    "market_value": 633.3,
+    "start_date": "2010-10-10",
+    "loan_purpose": "refinance",
+    "starting_point": "initial_net_loan_amount",
+    "initial_net_loan_amount": 1233,
+    "gross_loan_amount": -4067.55,
+    "estimated_interest": -5874.55,
+    "arrangement_fee_advance_date_value": 12,
+    "interest_rate": 12,
+    "title_insurance_fee": 12,
+    "legal_fee": 999,
+    "intermediary_commission_fee_value": -54.26,
+    "intermediary_commission_fee_percent": 1.33,
+    "completion_administration_fee": 250,
+    "premium_for_lenders_insurance": 300,
+    "max_ltv": 1,
+    "fk_loan_financial_details_dev_id": 40,
+    "fk_hybrid_terms": 40,
+    "fk_loan_financial_details_multi_id": 40,
+    "is_manual_mode": true,
+    "exit_fee_intermediary": 122.31,
+    "ltv_to_gdv": 54,
+    "loan_property_development_id": 40,
+    "progress_report": 43,
+    "build_period": 123,
+    "appraisal_report": 231,
+    "loan_financial_details_multi_id": 40,
+    "further_draw_downs": 12,
+    "status": "issued",
+    "id": "89c7bcf1-1ba4-4df9-acda-21a40571e3c2",
+    "gross_amount": -4067.55,
+    "applicants": [
+      {
+        "contact_value_id": 1136,
+        "fk_contact_id": 40,
+        "name": "piotr z",
+        "email": "5iolhh@wp.pl"
+      },
+      {
+        "contact_value_id": 1137,
+        "fk_contact_id": 40,
+        "name": "marek w",
+        "email": "gds@wp.pl"
+      }
+    ],
+    "name": [
+      {
+        "contact_value_id": 1136,
+        "fk_contact_id": 40,
+        "name": "piotr z",
+        "email": "5iolhh@wp.pl"
+      },
+      {
+        "contact_value_id": 1137,
+        "fk_contact_id": 40,
+        "name": "marek w",
+        "email": "gds@wp.pl"
+      }
+    ],
+    "hybrid_option": {
+      "loan_financial_hybrid_terms_id": 40,
+      "retained": 10,
+      "serviced": 20,
+      "rolled_up": 30
+    },
+    "securities": [
+      {
+        "isManualEditVisible": true,
+        "security_address": "rdsa",
+        "security_address_line_1": "Ashton Lane",
+        "security_address_line_2": "Greater London, England",
+        "security_town_city": "Glasgow",
+        "security_postcode": "G12",
+        "security_country": "Wielka Brytania",
+        "security_initial_estimation": 321.2,
+        "security_type": "residential",
+        "opfl_charge_type": "first_charge",
+        "gdv": 321
+      },
+      {
+        "isManualEditVisible": false,
+        "security_address": "fdf",
+        "security_address_line_1": "Dashwood Avenue",
+        "security_address_line_2": "Buckinghamshire, England",
+        "security_town_city": "High Wycombe",
+        "security_postcode": "HP12",
+        "security_country": "Wielka Brytania",
+        "security_initial_estimation": 312.1,
+        "security_type": "commercial",
+        "opfl_charge_type": "second_charge",
+        "gdv": 325,
+        "value_existing_mortgage": 1313
+      }
+    ],
+    "case_stage": "dip",
+    "application_loan_details": {},
+    "introducer_details": {},
+    "solicitor_details": {},
+    "summary": {}
+  },
+  "calculator": {
+    "calculatorResponse": {
+      "advanced_interest": -5874.55,
+      "arrangement_fee_in_value": 12,
+      "broker_fee_in_value": -61.19,
+      "broker_fee_out_value": -61.19,
+      "exit_fee_value": 0,
+      "gross_amount_of_first_advance": -4067.55,
+      "gross_day_one_ltv": -6.4228,
+      "gross_loan": -4067.55,
+      "gross_loan_first_advance": -4067.55,
+      "max_total_net_loan_available": 5,
+      "net_amount_of_first_advance": 1233,
+      "total_fees": 562,
+      "total_loan_amount": 1233,
+      "total_loan_facility": -4067.55,
+      "intermediary_commission_fee_value": -54.26,
+      "xirr": 0,
+      "gdltv": 0,
+      "drawdowns": []
+    }
+  },
+  "case": {},
+  "dip": {}
+}

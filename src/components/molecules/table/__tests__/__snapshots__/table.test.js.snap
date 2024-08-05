@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Table> Shouldn't show pagination 1`] = `
+<div
+  className="styled_table__StyledTable-pdereq-0 cKeRGk"
+  kind={Object {}}
+>
+  <table>
+    <tbody>
+      <tr
+        className=""
+      >
+        <td>
+          test1
+        </td>
+        <td>
+          test2
+        </td>
+      </tr>
+      <tr
+        className="highlighted"
+      >
+        <td>
+          test3
+        </td>
+        <td>
+          test4
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

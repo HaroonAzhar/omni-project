@@ -1,0 +1,490 @@
+{
+  "application": {
+    "whichApplicantStepToShow": "individual",
+    "value_type_of_arrangement_fee_advance_date": "percent",
+    "arrangement_fee_advance_date": 1,
+    "date_created": "2021-01-04T15:21:07.973Z",
+    "type_of_introducer": "direct_application",
+    "originator": 1027,
+    "dip_id": 8248,
+    "dip_form_id": "9c4c4148-b9d4-476a-acbe-46c243748921",
+    "case_nr": "10095-SERV",
+    "stage": "completed",
+    "editing_as_dip": false,
+    "fk_case_id": 8359,
+    "fk_contact_id": 8249,
+    "fk_loan_property_development_id": 8249,
+    "loan_advance_type": "single",
+    "type_of_applicant": "individual",
+    "contact_id": 8249,
+    "building_type": "non_development",
+    "fk_loan_financial_details_id": 6253,
+    "loan_term": 18,
+    "type_of_loan": "retained",
+    "market_value": 10000000,
+    "start_date": "2021-01-04",
+    "loan_purpose": "refinance",
+    "starting_point": "initial_net_loan_amount",
+    "initial_net_loan_amount": 122000,
+    "gross_loan_amount": 154608.59,
+    "estimated_interest": 30612.5,
+    "arrangement_fee_advance_date_percent": 1,
+    "interest_rate": 1.1,
+    "intermediary_commission_fee_value": 0,
+    "completion_administration_fee": 300,
+    "premium_for_lenders_insurance": 150,
+    "max_ltv": 75,
+    "gross_amount_at_maturity": 154608.59,
+    "fk_loan_financial_details_dev_id": 8249,
+    "fk_hybrid_terms": 8247,
+    "fk_loan_financial_details_multi_id": 8248,
+    "loan_property_development_id": 8249,
+    "loan_financial_details_multi_id": 8248,
+    "status": "in_progress",
+    "s_are_least_two_partners": true,
+    "s_country": "united kingdom",
+    "s_omni_solicitor_id": 1036,
+    "id": "9c4c4148-b9d4-476a-acbe-46c243748921",
+    "gross_amount": 154608.59,
+    "applicants": [
+      {
+        "contact_value_id": 13189,
+        "fk_contact_id": 8249,
+        "name": "retained servicing",
+        "email": "test@ucreate.it"
+      }
+    ],
+    "name": [
+      {
+        "contact_value_id": 13189,
+        "fk_contact_id": 8249,
+        "name": "retained servicing",
+        "email": "test@ucreate.it"
+      }
+    ],
+    "hybrid_option": { "loan_financial_hybrid_terms_id": 8247 },
+    "securities": [
+      {
+        "isManualEditVisible": false,
+        "security_address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+        "security_address_line_2": "Framingham Pigot",
+        "security_town_city": "Norwich",
+        "security_postcode": "NR14 7PZ",
+        "security_country": "united kingdom",
+        "security_initial_estimation": 10000000,
+        "security_type": "commercial",
+        "opfl_charge_type": "first_charge"
+      }
+    ],
+    "case_stage": "completed",
+    "application_loan_details": {},
+    "introducer_details": {},
+    "solicitor_details": {
+      "country": "united kingdom",
+      "omni_solicitor_id": 1036,
+      "are_least_two_partners": true
+    },
+    "summary": {
+      "overview": {
+        "executive_summary": "<h2>Borrower:</h2><br /><br /><h2>Loan Requirement:</h2><br /><br /><h2>Loan Purpose:</h2><br /><br /><h2>Loan Rationale:</h2><br /><br /><h2>Security:</h2><br /><br /><h2>Exit:</h2>",
+        "start_case_summary_date": "2021-01-18T08:44:06.170Z"
+      },
+      "security": {},
+      "loan": {},
+      "risk_mitigations": {},
+      "further_comments": {},
+      "borrower": {}
+    },
+    "properties": [
+      {
+        "id": 6804,
+        "date_edited": "2021-01-18T08:43:38.716Z",
+        "status": "Edited",
+        "valuation_report": {},
+        "details": {
+          "already_owned": true,
+          "being_purchased": false,
+          "current_value": 10000000,
+          "security_type": "commercial",
+          "selected_contact_for_access_valuation": "manual",
+          "selected_contact_for_payment_valuation": "manual",
+          "payment_contact_details_same_as_access_valuation": false
+        },
+        "address": {
+          "line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+          "line_2": "Framingham Pigot",
+          "postcode": "NR14 7PZ",
+          "city": "Norwich",
+          "country": "united kingdom"
+        },
+        "charge": {
+          "opfl_charge_type": "first_charge",
+          "lenders": [{}],
+          "security_owner": "applicant"
+        }
+      }
+    ],
+    "steps": [
+      {
+        "id": 8462,
+        "name": "assets_and_liabilities",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8463,
+        "name": "additional_information",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8464,
+        "name": "valuation_report",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8465,
+        "name": "loan_details",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8466,
+        "name": "security_details",
+        "edited": "2021-01-18T08:43:38.771Z",
+        "status": "Edited"
+      },
+      {
+        "id": 8467,
+        "name": "applicant_details",
+        "edited": "2021-01-18T08:43:25.634Z",
+        "status": "Edited"
+      },
+      {
+        "id": 8468,
+        "name": "credit_history",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8469,
+        "name": "solicitor_details",
+        "edited": "2021-01-18T08:43:49.886Z",
+        "status": "Edited"
+      },
+      {
+        "id": 8470,
+        "name": "aml_kyc",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      },
+      {
+        "id": 8471,
+        "name": "declarations",
+        "edited": "2021-01-04T15:23:20.792Z",
+        "status": "New"
+      }
+    ],
+    "aml_kyc_validation": {},
+    "individuals": [
+      {
+        "applicant_id": 9179,
+        "status": "Edited",
+        "date_edited": "2021-01-18T08:43:25.470Z",
+        "links": "retained servicing",
+        "personal_data": {
+          "title": null,
+          "forename": "retained",
+          "middle_name": null,
+          "surname": "servicing",
+          "other_name": null,
+          "date_of_birth": "0001-01-11",
+          "city_of_birth": null,
+          "country_of_birth": null,
+          "insurance_number": null,
+          "nationality": null,
+          "second_nationality": null,
+          "has_dual_nationality": null,
+          "permanent_resident": null,
+          "marital_status": null,
+          "marital_other_value": null,
+          "uk_residential_status": null,
+          "information_regarding_property_residence": null,
+          "mothers_maiden_name": null
+        },
+        "contact": {
+          "email": "test@ucreate.it",
+          "home_phone": null,
+          "mobile_phone": null,
+          "work_phone": null,
+          "contact_method": null,
+          "number_of_dependants": null
+        },
+        "declarations_signatures": {
+          "declaration": null,
+          "signature": null,
+          "date_of_signature": null,
+          "date_of_declaration": null
+        },
+        "addresses": [
+          {
+            "address_line_1": null,
+            "address_line_2": null,
+            "postcode": null,
+            "city": null,
+            "country": "united kingdom",
+            "how_long_here_months": null,
+            "how_long_here_years": 5
+          }
+        ],
+        "liabilities": [],
+        "assets": [],
+        "property_portfolio": []
+      }
+    ],
+    "company": []
+  },
+  "calculator": {
+    "calculatorResponse": {
+      "advanced_interest": 30612.5,
+      "arrangement_fee_in_value": 1546.09,
+      "broker_fee_in_value": 2319.13,
+      "broker_fee_out_value": 2319.13,
+      "exit_fee_value": 0,
+      "gross_amount_of_first_advance": 154608.59,
+      "gross_amount_at_maturity": 154608.59,
+      "total_interest": 30612.5,
+      "gross_amount_for_ltv": 154608.59,
+      "arrangement_fee_retained_value": 1546.09,
+      "exit_fee_retained_value": 0,
+      "total_loan_facility_excluding_interest": 123996.09,
+      "gross_day_one_ltv": 0.0155,
+      "gross_loan": 154608.59,
+      "gross_loan_first_advance": 154608.59,
+      "net_amount_of_first_advance": 122000,
+      "total_fees": 450,
+      "total_loan_amount": 122000,
+      "total_loan_facility": 154608.59,
+      "intermediary_commission_fee_value": 0,
+      "drawdowns": [],
+      "xirr": 0.169,
+      "repayment_date": "2022-07-04T16:20:07.401660",
+      "maturity_date": "2022-07-03T16:20:07.401660",
+      "gdltv": 0
+    }
+  },
+  "completed": {
+    "CompletedId": 3011,
+    "FkCaseId": 8359,
+    "DateOfCompletion": "2019-12-31T00:00:00.000Z",
+    "DateOfMaturity": "2021-06-30T00:00:00.000Z",
+    "LastStatementBalance": 112119.1277
+  },
+  "adjustments": [
+    {
+      "signedAmount": -30000,
+      "AdjustmentId": 3018,
+      "FkCompletedId": 3011,
+      "amount": 30000,
+      "TransactionType": "Early Redemption",
+      "Description": "Redemption",
+      "BalanceEffect": "Reduce",
+      "Date": "2021-01-04T15:24:42.627Z",
+      "ActualDate": "2020-02-20T00:00:00.000Z"
+    },
+    {
+      "signedAmount": 2000,
+      "AdjustmentId": 3019,
+      "FkCompletedId": 3011,
+      "amount": 2000,
+      "TransactionType": "Legal Fees",
+      "Description": null,
+      "BalanceEffect": "Increase",
+      "Date": "2021-01-04T15:25:20.050Z",
+      "ActualDate": "2020-03-25T00:00:00.000Z"
+    }
+  ],
+  "statementResults": [
+    {
+      "balance_adjustments": [122450],
+      "end_balance": 124129.48877805486,
+      "from": "2019-12-31T00:00:00",
+      "in_default": false,
+      "interest": 1679.488778054863,
+      "start_balance": 122505.9829592685,
+      "to": "2020-01-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 125249.14796342477,
+      "from": "2020-01-31T00:00:00",
+      "in_default": false,
+      "interest": 1119.6591853699085,
+      "start_balance": 124185.47173732336,
+      "to": "2020-02-19T00:00:00"
+    },
+    {
+      "balance_adjustments": [-30000],
+      "end_balance": 95808.97755610972,
+      "from": "2020-02-20T00:00:00",
+      "in_default": false,
+      "interest": 559.8295926849543,
+      "start_balance": 95305.13092269326,
+      "to": "2020-02-28T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 97208.55153782212,
+      "from": "2020-02-29T00:00:00",
+      "in_default": false,
+      "interest": 1399.5739817123856,
+      "start_balance": 95864.96051537822,
+      "to": "2020-03-24T00:00:00"
+    },
+    {
+      "balance_adjustments": [2000],
+      "end_balance": 99492.86721434063,
+      "from": "2020-03-25T00:00:00",
+      "in_default": false,
+      "interest": 284.31567651851236,
+      "start_balance": 99265.41467312581,
+      "to": "2020-03-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 100803.55169261337,
+      "from": "2020-03-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 99536.55669694972,
+      "to": "2020-04-29T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 102114.23617088613,
+      "from": "2020-04-30T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 100847.24117522247,
+      "to": "2020-05-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 103424.92064915887,
+      "from": "2020-05-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 102157.92565349521,
+      "to": "2020-06-29T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 104735.60512743163,
+      "from": "2020-06-30T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 103468.61013176797,
+      "to": "2020-07-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 106046.28960570438,
+      "from": "2020-07-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 104779.29461004071,
+      "to": "2020-08-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 107356.97408397713,
+      "from": "2020-08-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 106089.97908831347,
+      "to": "2020-09-29T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 108667.65856224988,
+      "from": "2020-09-30T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 107400.66356658623,
+      "to": "2020-10-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 109978.34304052262,
+      "from": "2020-10-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 108711.34804485897,
+      "to": "2020-11-29T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 111289.02751879538,
+      "from": "2020-11-30T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 110022.03252313173,
+      "to": "2020-12-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 112599.71199706814,
+      "from": "2020-12-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 111332.71700140447,
+      "to": "2021-01-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 113910.39647534088,
+      "from": "2021-01-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 112643.40147967722,
+      "to": "2021-02-27T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 115221.08095361364,
+      "from": "2021-02-28T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 113954.08595794997,
+      "to": "2021-03-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 116531.76543188638,
+      "from": "2021-03-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 115264.77043622272,
+      "to": "2021-04-29T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 117842.44991015914,
+      "from": "2021-04-30T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 116575.45491449548,
+      "to": "2021-05-30T00:00:00"
+    },
+    {
+      "balance_adjustments": [],
+      "end_balance": 119153.13438843188,
+      "from": "2021-05-31T00:00:00",
+      "in_default": false,
+      "interest": 1310.6844782727508,
+      "start_balance": 117886.13939276822,
+      "to": "2021-06-29T00:00:00"
+    }
+  ]
+}

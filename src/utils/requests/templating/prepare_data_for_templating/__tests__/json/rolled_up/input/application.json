@@ -1,0 +1,1147 @@
+{
+  "whichApplicantStepToShow": "company",
+  "value_type_of_arrangement_fee_advance_date": "percent",
+  "arrangement_fee_advance_date": 2,
+  "value_type_of_arrangement_fee_repayment_date": "value",
+  "arrangement_fee_repayment_date": 2000,
+  "value_type_of_intermediary_commission_fee": "percent",
+  "intermediary_commission_fee": 1,
+  "company_name": "UCREATE LIMITED",
+  "date_created": "2020-11-16T07:00:17.623Z",
+  "type_of_introducer": "via_broker",
+  "fk_broker_id": 11,
+  "originator": 1027,
+  "dip_id": 1120,
+  "dip_form_id": "48accb9f-418c-4e46-942a-1a77d82c60fe",
+  "case_nr": "10064-UCRE",
+  "additional_information": { "additional_information": "fdadadsafdada" },
+  "stage": "case_summary",
+  "editing_as_dip": false,
+  "fk_case_id": 1130,
+  "fk_contact_id": 1121,
+  "fk_loan_property_development_id": 1121,
+  "loan_advance_type": "multiple",
+  "type_of_applicant": "company",
+  "contact_id": 1121,
+  "company_number": "08503849",
+  "building_type": "development",
+  "fk_loan_financial_details_id": 1120,
+  "loan_term": 10,
+  "type_of_loan": "rolled_up",
+  "market_value": 600000,
+  "start_date": "2020-11-16",
+  "loan_purpose": "purchase",
+  "starting_point": "market_value",
+  "gross_loan_amount": 442260.46,
+  "estimated_interest": 17475.54,
+  "purchase_price": 500000,
+  "arrangement_fee_advance_date_percent": 2,
+  "arrangement_fee_repayment_date_value": 2000,
+  "interest_rate": 1,
+  "intermediary_commission_fee_value": 4335.89,
+  "intermediary_commission_fee_percent": 1,
+  "completion_administration_fee": 400,
+  "premium_for_lenders_insurance": 250,
+  "max_ltv": 75,
+  "fk_loan_financial_details_dev_id": 1121,
+  "fk_hybrid_terms": 1120,
+  "fk_loan_financial_details_multi_id": 1120,
+  "is_manual_mode": false,
+  "further_draw_downs_borrowing": 200000,
+  "initial_net_loan": 321692.33,
+  "term": 10,
+  "purpose_of_borrowings": "purpose",
+  "source_of_deposit": "ad",
+  "repayment_method": "refinance",
+  "repayment_method_details": "hjdkas",
+  "proposed_completion_date": "9",
+  "exit_fee_intermediary": 1000,
+  "ltv_to_gdv": 65,
+  "loan_property_development_id": 1121,
+  "build_period": 6,
+  "loan_financial_details_multi_id": 1120,
+  "further_draw_downs": 200000,
+  "status": "in_progress",
+  "broker_id": 11,
+  "broker_company_name": "1",
+  "broker_name": "asd",
+  "broker_email": "bartek@ucreate.it",
+  "firm": "1",
+  "introducer": "asd",
+  "address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+  "address_line_2": "Framingham Pigot",
+  "city": "Norwich",
+  "postcode": "NR14 7PZ",
+  "country": "united kingdom",
+  "phone_number": "+44 7911 123456",
+  "interim_permission_number": "1223",
+  "have_met_client": true,
+  "s_company_name": "4",
+  "s_are_least_two_partners": true,
+  "s_address_line_1": "B 2 B Cashflow Solutions Ltd",
+  "s_address_line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+  "s_city": "Norwich",
+  "s_postcode": "NR14 7PZ",
+  "s_country": "united kingdom",
+  "s_phone_number": "+4556654449",
+  "s_email": "test@mail.com",
+  "s_omni_solicitor_phone_number": "1213132",
+  "s_omni_solicitor_email": "test@mail.com",
+  "s_omni_solicitor_id": 1036,
+  "id": "48accb9f-418c-4e46-942a-1a77d82c60fe",
+  "gross_amount": 442260.46,
+  "applicants": [
+    {
+      "contact_value_id": 4563,
+      "fk_contact_id": 1121,
+      "name": "UCREATE LIMITED"
+    }
+  ],
+  "name": [
+    {
+      "contact_value_id": 4563,
+      "fk_contact_id": 1121,
+      "name": "UCREATE LIMITED"
+    }
+  ],
+  "hybrid_option": { "loan_financial_hybrid_terms_id": 1120 },
+  "securities": [
+    {
+      "isManualEditVisible": false,
+      "security_address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+      "security_address_line_2": "Framingham Pigot",
+      "security_town_city": "Norwich",
+      "security_postcode": "NR14 7PZ",
+      "security_country": "united kingdom",
+      "security_initial_estimation": 500000,
+      "security_type": "land",
+      "opfl_charge_type": "second_charge",
+      "gdv": 700000,
+      "value_existing_mortgage": 50000,
+      "current_estimated_90_day_market_value": 700000,
+      "estimated_90_day_gdv": 900000
+    },
+    {
+      "isManualEditVisible": false,
+      "security_address_line_1": "East Anglias Childrens Hospices",
+      "security_address_line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+      "security_town_city": "Norwich",
+      "security_postcode": "NR14 7PZ",
+      "security_country": "united kingdom",
+      "security_initial_estimation": 100000,
+      "security_type": "land",
+      "opfl_charge_type": "first_charge",
+      "gdv": 200000,
+      "value_existing_mortgage": 50000,
+      "current_estimated_90_day_market_value": 200000,
+      "estimated_90_day_gdv": 350000
+    }
+  ],
+  "case_stage": "case_summary",
+  "application_loan_details": {
+    "further_draw_downs_borrowing": 200000,
+    "initial_net_loan": 321692.33,
+    "term": 10,
+    "purpose_of_borrowings": "purpose",
+    "source_of_deposit": "ad",
+    "repayment_method": "refinance",
+    "repayment_method_details": "hjdkas",
+    "proposed_completion_date": "9"
+  },
+  "introducer_details": {
+    "firm": "1",
+    "introducer": "asd",
+    "address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+    "address_line_2": "Framingham Pigot",
+    "city": "Norwich",
+    "postcode": "NR14 7PZ",
+    "country": "united kingdom",
+    "phone_number": "+44 7911 123456",
+    "email": "bartek@ucreate.it",
+    "interim_permission_number": "1223",
+    "have_met_client": true
+  },
+  "solicitor_details": {
+    "company_name": "4",
+    "address_line_1": "B 2 B Cashflow Solutions Ltd",
+    "address_line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+    "city": "Norwich",
+    "postcode": "NR14 7PZ",
+    "country": "united kingdom",
+    "phone_number": "+4556654449",
+    "email": "test@mail.com",
+    "omni_solicitor_phone_number": "1213132",
+    "omni_solicitor_email": "test@mail.com",
+    "omni_solicitor_id": 1036,
+    "are_least_two_partners": true
+  },
+  "summary": {
+    "overview": {
+      "executive_summary": "<p>summary 123</p><p><strong>Bolded text</strong></p><p><br></p><p><span style=\"color: rgb(230, 0, 0);\">Highlighted text</span></p>",
+      "start_case_summary_date": "2020-11-17T12:13:09.607Z",
+      "underwriter": "1002"
+    },
+    "security": {
+      "description_of_property": "<p>freses</p><p>asdafs</p><p>fdasd</p>",
+      "description_of_works": "<p>fdssad</p><p>dfas</p><p>fasdfa</p>",
+      "valuer_name": "Bruton Knowles LLP",
+      "analysis_of_property": "<p>fasfsadfsdfsfsfsdfas</p>"
+    },
+    "loan": {},
+    "risk_mitigations": {
+      "risk_inputs": [
+        { "risk": "asfas", "mitigation": "fsa" },
+        { "risk": "trsd", "mitigation": "vvfdsf" }
+      ],
+      "underwriter_rationale": "<p>fdasda</p>"
+    },
+    "further_comments": {
+      "exit_strategy": "<p>ada</p>",
+      "ongoing_monitoring": "<p>fdsad</p>",
+      "special_conditions": "<p>sdfas</p>"
+    },
+    "borrower": {
+      "borrower_profile": "<p>Borrower Profile</p>",
+      "client_meeting_attendees": "<ul><li>Attendee 1</li><li>Attendee 2</li></ul>",
+      "client_meeting_date": "2021-01-02T00:00:00.000Z",
+      "client_meeting_notes": "<p>Some notes</p>"
+    }
+  },
+  "properties": [
+    {
+      "id": 1522,
+      "date_edited": "2020-11-17T12:17:26.864Z",
+      "status": "Edited",
+      "valuation_report": {
+        "valuation_basis": "progress_report",
+        "valuation_method": "residual_value",
+        "report_date": "2020-11-17",
+        "inspection_date": "2020-11-10",
+        "market_value": 500000,
+        "day_value": 500000,
+        "gdv": 700000,
+        "day_gdv": "800000.00",
+        "reinstatement_value": 423,
+        "title_no": "34141dfad",
+        "security_description": "fdadasd",
+        "first_charge_outstanding": "2000.00",
+        "number_of_units": "5",
+        "planning_details": "fsdsd",
+        "planning_reference_numbers": ["fdsds"],
+        "country": "sweden",
+        "nitrate_neutrality": true,
+        "build_duration": 4,
+        "build_costs": 3243243,
+        "commencement_date_of_works": "2020-11-11",
+        "contractor": "fsad",
+        "price_per_square_foot": 4000,
+        "price_per_square_meters": 43055.6416,
+        "total_square_feet": 123,
+        "total_square_meters": 11.4271,
+        "surveyor": "adas",
+        "report_status": "followed_up",
+        "market_rent": 4313,
+        "name_of_the_individual_surveyor": "fsdsfs",
+        "planning_required": true,
+        "link_to_planning_permission": "42342",
+        "build_costs_per_square_foot": 222212.12,
+        "build_costs_per_square_meter": 2391871.3495,
+        "project_manager": "fdad",
+        "architect": "fdeefafda",
+        "structural_engineer": "fsdfds",
+        "other_relevant_subcontractors": "ffsfs",
+        "omni_experience_with_the_professional_team": "gfsfss",
+        "listed_grade": true,
+        "sang": false,
+        "sssi": true,
+        "anob": false,
+        "flood_zone": false,
+        "green_belt": false,
+        "status": "Edited",
+        "date_edited": "2020-11-16T08:45:16.052Z"
+      },
+      "details": {
+        "already_owned": false,
+        "being_purchased": true,
+        "current_value": 500000,
+        "value_after_works": 700000,
+        "purchase_price": 500000,
+        "purpose_of_borrowings": "adfs",
+        "property_type": "freehold",
+        "security_type": "land",
+        "is_new_build": true,
+        "is_standard_construction": true,
+        "is_planning_required": false,
+        "is_occupied": true,
+        "is_occupied_by_borrower": true,
+        "basis_for_occupation": "dda",
+        "intentions": "da",
+        "contact_for_access_valuation_name": "",
+        "contact_for_access_valuation_phone": "",
+        "contact_for_access_valuation_email": "",
+        "contact_for_payment_valuation_name": "",
+        "contact_for_payment_valuation_email": "",
+        "selected_contact_for_access_valuation": "applicant",
+        "selected_contact_for_payment_valuation": "applicant",
+        "selected_contact_applicant_id_for_access_valuation": "3694",
+        "selected_contact_applicant_id_for_payment_valuation": "3695",
+        "payment_contact_details_same_as_access_valuation": false
+      },
+      "address": {
+        "line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+        "line_2": "Framingham Pigot",
+        "postcode": "NR14 7PZ",
+        "city": "Norwich",
+        "country": "united kingdom"
+      },
+      "charge": {
+        "opfl_charge_type": "second_charge",
+        "lenders": [
+          { "name": "adfadfasd", "current_mortgage_outstanding": "200000.00" }
+        ],
+        "current_mortgage_outstanding": 200000,
+        "security_owner": "applicant"
+      },
+      "title_numbers": ["foo", "bar"]
+    },
+    {
+      "id": 1523,
+      "date_edited": "2020-11-17T12:14:57.716Z",
+      "status": "Recheck",
+      "valuation_report": {
+        "valuation_basis": "progress_report",
+        "valuation_method": "residual_value",
+        "report_date": "2020-11-12",
+        "inspection_date": "2020-11-03",
+        "market_value": 100000,
+        "day_value": 500000,
+        "gdv": 200000,
+        "day_gdv": "800000.00",
+        "reinstatement_value": 423,
+        "title_no": "34141dfad",
+        "security_description": "fdsfsdf",
+        "security_subtype": "converted_flat",
+        "first_charge_outstanding": "1324.00",
+        "number_of_units": "1",
+        "planning_reference_numbers": ["5423", "fsssg"],
+        "country": "united kingdom",
+        "nitrate_neutrality": true,
+        "build_duration": 5,
+        "build_costs": 3243243,
+        "commencement_date_of_works": "2020-11-04",
+        "contractor": "ada",
+        "price_per_square_foot": 4000,
+        "price_per_square_meters": 43055.6416,
+        "total_square_feet": 43,
+        "total_square_meters": 3.9948,
+        "surveyor": "adas",
+        "report_status": "received",
+        "market_rent": 4313,
+        "name_of_the_individual_surveyor": "fsdsfs",
+        "planning_required": false,
+        "link_to_planning_permission": "42342",
+        "build_costs_per_square_foot": 222212.12,
+        "build_costs_per_square_meter": 2391871.3495,
+        "project_manager": "fdad",
+        "architect": "fdeefafda",
+        "structural_engineer": "fsdfds",
+        "other_relevant_subcontractors": "feafeafafeaeaefa",
+        "omni_experience_with_the_professional_team": "fsgsdgsdgsfd",
+        "listed_grade": false,
+        "sang": true,
+        "sssi": false,
+        "anob": true,
+        "flood_zone": false,
+        "green_belt": true,
+        "status": "Edited",
+        "date_edited": "2020-11-16T08:46:58.082Z"
+      },
+      "details": {
+        "current_value": 100000,
+        "value_after_works": 200000,
+        "purpose_of_borrowings": "das",
+        "property_type": "heritable_ownership",
+        "security_type": "land",
+        "is_new_build": false,
+        "is_standard_construction": false,
+        "is_planning_required": true,
+        "is_occupied": false,
+        "intentions": "fdaas",
+        "contact_for_access_valuation_name": "manual contact",
+        "contact_for_access_valuation_phone": "+48121313211",
+        "contact_for_access_valuation_email": "test@mail.com",
+        "contact_for_payment_valuation_name": "",
+        "contact_for_payment_valuation_email": "",
+        "selected_contact_for_access_valuation": "manual",
+        "selected_contact_for_payment_valuation": "applicant",
+        "selected_contact_applicant_id_for_payment_valuation": "3697",
+        "payment_contact_details_same_as_access_valuation": false
+      },
+      "address": {
+        "line_1": "East Anglias Childrens Hospices",
+        "line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+        "postcode": "NR14 7PZ",
+        "city": "Norwich",
+        "country": "united kingdom"
+      },
+      "charge": {
+        "opfl_charge_type": "first_charge",
+        "lenders": [{}],
+        "current_mortgage_outstanding": 50000,
+        "security_owner": "third_party",
+        "security_owner_title": "Mr",
+        "security_owner_forename": "Firstname",
+        "security_owner_middle_name": "asd",
+        "security_owner_surname": "surname"
+      },
+      "title_numbers": ["baz"]
+    }
+  ],
+  "steps": [
+    {
+      "id": 2166,
+      "name": "solicitor_details",
+      "edited": "2020-11-16T08:48:53.661Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2167,
+      "name": "additional_information",
+      "edited": "2020-11-16T08:48:58.942Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2168,
+      "name": "loan_details",
+      "edited": "2020-11-16T08:09:50.400Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2169,
+      "name": "security_details",
+      "edited": "2020-11-17T12:17:27.009Z",
+      "status": "Edited"
+    },
+    {
+      "id": 2170,
+      "name": "applicant_details",
+      "edited": "2020-11-16T08:08:52.346Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2171,
+      "name": "declarations",
+      "edited": "2020-11-16T08:50:25.928Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2172,
+      "name": "company_details",
+      "edited": "2020-11-16T08:07:46.003Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2173,
+      "name": "introducer_details",
+      "edited": "2020-11-16T08:07:06.564Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2174,
+      "name": "credit_history",
+      "edited": "2020-11-16T08:09:07.019Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2175,
+      "name": "valuation_report",
+      "edited": "2020-11-16T07:02:33.355Z",
+      "status": "New"
+    },
+    {
+      "id": 2176,
+      "name": "assets_and_liabilities",
+      "edited": "2020-11-16T08:50:00.976Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2177,
+      "name": "aml_kyc",
+      "edited": "2020-11-16T07:02:33.355Z",
+      "status": "New"
+    }
+  ],
+  "aml_kyc_validation": {},
+  "underwriter": {
+    "Id": 1002,
+    "CreatedAt": "2020-11-10T13:16:33.693Z",
+    "Name": "foo",
+    "IsDeleted": false
+  },
+  "individuals": [
+    {
+      "applicant_id": 3694,
+      "status": "Recheck",
+      "date_edited": "2020-11-16T08:08:51.981Z",
+      "links": "foo",
+      "personal_data": {
+        "title": "Mr",
+        "forename": "foo",
+        "middle_name": "marie",
+        "surname": "foo",
+        "other_name": "fdads",
+        "date_of_birth": "0001-11-02",
+        "city_of_birth": "bielsko",
+        "country_of_birth": "uk",
+        "insurance_number": "AA123456B",
+        "nationality": "British",
+        "second_nationality": null,
+        "has_dual_nationality": false,
+        "permanent_resident": true,
+        "marital_status": "married",
+        "marital_other_value": null,
+        "uk_residential_status": "Visa Holder",
+        "information_regarding_property_residence": "Homeowner",
+        "mothers_maiden_name": "dada"
+      },
+      "contact": {
+        "email": "bartek@ucreate.it",
+        "home_phone": "+48121313211",
+        "mobile_phone": "+48121313211",
+        "work_phone": "+48121313211",
+        "contact_method": "email",
+        "number_of_dependants": "5"
+      },
+      "declarations_signatures": {
+        "declaration": true,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": "2020-11-11"
+      },
+      "addresses": [
+        {
+          "address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+          "address_line_2": "Framingham Pigot",
+          "postcode": "NR14 7PZ",
+          "city": "Norwich",
+          "country": "united kingdom",
+          "how_long_here_months": 10,
+          "how_long_here_years": 5
+        }
+      ],
+      "credit_history": {
+        "debt_judgement": false,
+        "declared_bankrupt": false,
+        "failed_to_keep": false,
+        "claim_dss": false,
+        "convicted_fraud": false,
+        "details": null,
+        "refused_mortgage": false,
+        "debt_judgement_details": null,
+        "declared_bankrupt_details": null,
+        "failed_to_keep_details": null,
+        "claim_dss_details": null,
+        "convicted_fraud_details": null,
+        "refused_mortgage_details": null,
+        "date_edited": "2020-11-16T08:09:06.960Z",
+        "status": "Recheck"
+      },
+      "liabilities": [],
+      "assets": [
+        {
+          "type": "vehicle",
+          "description": "234",
+          "gross_value": 100,
+          "outstanding_debt": 50,
+          "net_value": 50
+        }
+      ],
+      "property_portfolio": [
+        {
+          "is_where_resides": true,
+          "address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+          "address_line_2": "Framingham Pigot",
+          "postcode": "NR14 7PZ",
+          "city": "Norwich",
+          "country": "united kingdom",
+          "name_of_lender": "a",
+          "estimated_value": 123,
+          "current_debt": 42,
+          "monthly_mortgage": 53432,
+          "monthly_rental": 34213
+        }
+      ],
+      "assets_liabilities_additional": {
+        "total_liabilities": null,
+        "total_assets": null,
+        "statement_of_financial_position": null,
+        "date_edited": "2020-11-16T08:49:38.678Z",
+        "status": "Recheck"
+      },
+      "aml_kyc": {
+        "status": "ok",
+        "voters_roll": null,
+        "aml": null,
+        "aml_details": null,
+        "ccj": null,
+        "ccj_details": null,
+        "cifas": null,
+        "cifas_details": null,
+        "creditsafe": true,
+        "creditsafe_details": null,
+        "google_search": null,
+        "google_search_details": null,
+        "experian_risk_score": null,
+        "proof_of_address": "UTILITY_BILL_STATEMENT",
+        "proof_of_address_details": null,
+        "proof_of_id": "SIGNED_PASSPORT",
+        "proof_of_id_details": null,
+        "client_arrival_in_uk": null,
+        "third_party_verification": null,
+        "is_pep": false,
+        "electronic_document_check_satisfactory": null,
+        "is_on_sanctions_list": null,
+        "copies_on_file": null,
+        "adverse_media_check_satisfactory": null,
+        "links_to_high_risk_jurisdiction": "n/a",
+        "any_suspicion_of_money_laundering": false,
+        "additional_notes": null,
+        "corporate_structure": null,
+        "verification_company_is_subsidiary": null,
+        "sedol_no_exchange": null,
+        "evidence_of_authority_to_act_for_firm": null,
+        "number_of_individuals": null,
+        "partner_verified_as_individual": null,
+        "icaew_membership_confirmed": null,
+        "person_with_interest_verified_as_individual": null,
+        "evidence_of_trading_address": null,
+        "purpose_of_partnership": null,
+        "partnership_agreement_on_file": null,
+        "person_with_control_verified_as_individual": null,
+        "certificate_of_incorporation": null,
+        "list_of_shareholders": null,
+        "verification_documents_on_file": null,
+        "shareholders_verified_as_individual": null,
+        "law_society_membership_confirmed": null,
+        "settlor_type": null,
+        "trustee_type": null,
+        "controller_type": null,
+        "source_of_funds_confirmed": null,
+        "fk_applicant_company_id": null,
+        "creditsafe_clear": true,
+        "creditsafe_clear_details": null,
+        "individuals_shareholders": null,
+        "company_shareholders": null,
+        "creditsafe_user_comments": null,
+        "creditsafe_mlro_comments": null,
+        "creditsafe_mlro_username": null,
+        "creditsafe_mlro_date": null,
+        "icaew_membership_confirmed_user_comments": null,
+        "icaew_membership_confirmed_mlro_comments": null,
+        "icaew_membership_confirmed_mlro_username": null,
+        "icaew_membership_confirmed_mlro_date": null,
+        "law_society_membership_confirmed_user_comments": null,
+        "law_society_membership_confirmed_mlro_comments": null,
+        "law_society_membership_confirmed_mlro_username": null,
+        "law_society_membership_confirmed_mlro_date": null,
+        "certificate_of_incorporation_user_comments": null,
+        "certificate_of_incorporation_mlro_comments": null,
+        "certificate_of_incorporation_mlro_username": null,
+        "certificate_of_incorporation_mlro_date": null,
+        "list_of_shareholders_user_comments": null,
+        "list_of_shareholders_mlro_comments": null,
+        "list_of_shareholders_mlro_username": null,
+        "list_of_shareholders_mlro_date": null,
+        "shareholders_verified_as_individual_user_comments": null,
+        "shareholders_verified_as_individual_mlro_comments": null,
+        "shareholders_verified_as_individual_mlro_username": null,
+        "shareholders_verified_as_individual_mlro_date": null,
+        "person_with_control_verified_as_individual_user_comments": null,
+        "person_with_control_verified_as_individual_mlro_comments": null,
+        "person_with_control_verified_as_individual_mlro_username": null,
+        "person_with_control_verified_as_individual_mlro_date": null,
+        "person_with_interest_verified_as_individual_user_comments": null,
+        "person_with_interest_verified_as_individual_mlro_comments": null,
+        "person_with_interest_verified_as_individual_mlro_username": null,
+        "person_with_interest_verified_as_individual_mlro_date": null,
+        "partner_verified_as_individual_user_comments": null,
+        "partner_verified_as_individual_mlro_comments": null,
+        "partner_verified_as_individual_mlro_username": null,
+        "partner_verified_as_individual_mlro_date": null,
+        "partnership_agreement_on_file_user_comments": null,
+        "partnership_agreement_on_file_mlro_comments": null,
+        "partnership_agreement_on_file_mlro_username": null,
+        "partnership_agreement_on_file_mlro_date": null,
+        "company_shareholders_user_comments": null,
+        "company_shareholders_mlro_comments": null,
+        "company_shareholders_mlro_username": null,
+        "company_shareholders_mlro_date": null,
+        "individuals_shareholders_user_comments": null,
+        "individuals_shareholders_mlro_comments": null,
+        "individuals_shareholders_mlro_username": null,
+        "individuals_shareholders_mlro_date": null,
+        "adverse_media_check_satisfactory_user_comments": null,
+        "adverse_media_check_satisfactory_mlro_comments": null,
+        "adverse_media_check_satisfactory_mlro_username": null,
+        "adverse_media_check_satisfactory_mlro_date": null,
+        "copies_on_file_user_comments": null,
+        "copies_on_file_mlro_comments": null,
+        "copies_on_file_mlro_username": null,
+        "copies_on_file_mlro_date": null,
+        "electronic_document_check_satisfactory_user_comments": null,
+        "electronic_document_check_satisfactory_mlro_comments": null,
+        "electronic_document_check_satisfactory_mlro_username": null,
+        "electronic_document_check_satisfactory_mlro_date": null,
+        "is_on_sanctions_list_user_comments": null,
+        "is_on_sanctions_list_mlro_comments": null,
+        "is_on_sanctions_list_mlro_username": null,
+        "is_on_sanctions_list_mlro_date": null,
+        "is_pep_user_comments": null,
+        "is_pep_mlro_comments": null,
+        "is_pep_mlro_username": null,
+        "is_pep_mlro_date": null,
+        "creditsafe_clear_user_comments": null,
+        "creditsafe_clear_mlro_comments": null,
+        "creditsafe_clear_mlro_username": null,
+        "creditsafe_clear_mlro_date": null,
+        "links_to_high_risk_jurisdiction_user_comments": null,
+        "links_to_high_risk_jurisdiction_mlro_comments": null,
+        "links_to_high_risk_jurisdiction_mlro_username": null,
+        "links_to_high_risk_jurisdiction_mlro_date": null,
+        "any_suspicion_of_money_laundering_user_comments": null,
+        "any_suspicion_of_money_laundering_mlro_comments": null,
+        "any_suspicion_of_money_laundering_mlro_username": null,
+        "any_suspicion_of_money_laundering_mlro_date": null
+      }
+    },
+    {
+      "applicant_id": 3695,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/pcGJLV-gFieOA3XfUN_gbqJullU/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "Daniel",
+        "middle_name": null,
+        "surname": "Christey",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [
+        {
+          "type": "Maintenance",
+          "description": "32",
+          "gross_value": 233,
+          "outstanding_debt": 43,
+          "net_value": 190
+        }
+      ],
+      "property_portfolio": [],
+      "assets_liabilities_additional": {
+        "total_liabilities": null,
+        "total_assets": null,
+        "statement_of_financial_position": null,
+        "date_edited": "2020-11-16T08:49:48.352Z",
+        "status": "Recheck"
+      }
+    },
+    {
+      "applicant_id": 3696,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/sX0MxSEFAnuJ-9ay7Cy6k3NnkME/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "Peter",
+        "middle_name": "James",
+        "surname": "Goodman",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    },
+    {
+      "applicant_id": 3697,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/2XSEFvc8FQvnKVj0jPiFeRTrPkQ/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "Matthew",
+        "middle_name": null,
+        "surname": "Jonns",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": true,
+        "date_of_signature": "2020-11-11",
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    },
+    {
+      "applicant_id": 3698,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/NAmyjU3iow0G9Golj8NboO1Ek9Y/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "Pawel",
+        "middle_name": null,
+        "surname": "Kaminski",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    },
+    {
+      "applicant_id": 3699,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/HjyxLEK5gxcFYoEal1OoEZGl7jQ/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "Simon",
+        "middle_name": null,
+        "surname": "Rendell",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    },
+    {
+      "applicant_id": 3700,
+      "status": "New",
+      "date_edited": null,
+      "links": "/officers/T7S_4y46l8gDIqyzq9kw-W9gpjU/appointments",
+      "personal_data": {
+        "title": null,
+        "forename": "James",
+        "middle_name": "Steven",
+        "surname": "Shirley",
+        "other_name": null,
+        "date_of_birth": null,
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": null,
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null,
+          "how_long_here_months": null,
+          "how_long_here_years": null
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    }
+  ],
+  "company": [
+    {
+      "applicant_id": 3981,
+      "base_data": {
+        "name": "UCREATE LIMITED",
+        "email": "",
+        "applicant_name": null,
+        "company_number": "08503849",
+        "number_of_partners": "6",
+        "company_type": "ltd",
+        "company_other_type_value": null,
+        "company_registration_number": null,
+        "nature_of_business": "1",
+        "trading_since": "daads",
+        "date_of_creation": "2011-05-12"
+      },
+      "address": {
+        "is_correspondence_same": false,
+        "registered": {
+          "address_line_1": "67, Upper Tooting Road",
+          "address_line_2": null,
+          "postcode": "SW17 7TN",
+          "city": "London",
+          "country": "united kingdom"
+        },
+        "correspondence": {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": null
+        }
+      },
+      "directors": [
+        {
+          "name": "Daniel Christey",
+          "links": "/officers/pcGJLV-gFieOA3XfUN_gbqJullU/appointments",
+          "is_guarantor": true
+        },
+        {
+          "name": "Peter James Goodman",
+          "links": "/officers/sX0MxSEFAnuJ-9ay7Cy6k3NnkME/appointments",
+          "is_guarantor": true
+        },
+        {
+          "name": "Matthew Jonns",
+          "links": "/officers/2XSEFvc8FQvnKVj0jPiFeRTrPkQ/appointments",
+          "is_guarantor": true
+        },
+        {
+          "name": "Pawel Kaminski",
+          "links": "/officers/NAmyjU3iow0G9Golj8NboO1Ek9Y/appointments",
+          "is_guarantor": true
+        },
+        {
+          "name": "Simon Rendell",
+          "links": "/officers/HjyxLEK5gxcFYoEal1OoEZGl7jQ/appointments",
+          "is_guarantor": true
+        },
+        {
+          "name": "James Steven Shirley",
+          "links": "/officers/T7S_4y46l8gDIqyzq9kw-W9gpjU/appointments",
+          "is_guarantor": true
+        }
+      ],
+      "shared_holders": [
+        {
+          "name": "foo",
+          "held": "50.00",
+          "isCompany": false,
+          "is_guarantor": true,
+          "links": "foo"
+        }
+      ],
+      "accountant": {
+        "name": "1",
+        "surname": "1",
+        "firm": "1",
+        "qualification": "1",
+        "address": {
+          "address_type": "accountant",
+          "address_line_1": "Brasteds Lodge, Manor Farm Barns, Fox Road",
+          "address_line_2": "Framingham Pigot",
+          "postcode": "NR14 7PZ",
+          "city": "Norwich",
+          "country": "united kingdom"
+        }
+      }
+    }
+  ]
+}

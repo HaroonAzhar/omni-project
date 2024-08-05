@@ -1,0 +1,77 @@
+{
+  "entiresDetails": {
+    "8ec295a3-977e-4818-9a48-580f3ac35420": {
+      "name": "a",
+      "held": "33.00",
+      "isCompany": "true"
+    },
+    "675bd932-468b-4461-9302-34e677902711": { "name": "b", "held": "33.00" },
+    "6b8bd874-3083-42dc-b362-4de90af1a6a0": {
+      "name": "c",
+      "held": "34.00",
+      "isCompany": "true"
+    },
+    "0d507a24-7d94-4b1a-a0a8-38a34cb04e36": {
+      "name": "a1",
+      "isCompany": "true",
+      "held": "50.00"
+    },
+    "fc683392-d220-4a38-b3d4-75cf4b309219": { "name": "a2", "held": "50.00" },
+    "6285ec64-1eb0-4c9e-ae66-355eca5764a8": { "name": "a11", "held": "40.00" },
+    "1a6a4b6e-29c9-4cb7-bc7d-785533db1a3e": { "name": "c1", "held": "30.00" },
+    "946cd72f-4bc2-4b8d-a10e-c80f8d250b74": { "name": "c2", "held": "40.00" },
+    "cd777ee8-6838-4472-847a-c5e3096770e9": { "name": "c3", "held": "30.00" }
+  },
+  "structureOfEntries": {
+    "main": [
+      "8ec295a3-977e-4818-9a48-580f3ac35420",
+      "675bd932-468b-4461-9302-34e677902711",
+      "6b8bd874-3083-42dc-b362-4de90af1a6a0"
+    ],
+    "8ec295a3-977e-4818-9a48-580f3ac35420": [
+      "0d507a24-7d94-4b1a-a0a8-38a34cb04e36",
+      "fc683392-d220-4a38-b3d4-75cf4b309219"
+    ],
+    "675bd932-468b-4461-9302-34e677902711": [],
+    "6b8bd874-3083-42dc-b362-4de90af1a6a0": [
+      "1a6a4b6e-29c9-4cb7-bc7d-785533db1a3e",
+      "946cd72f-4bc2-4b8d-a10e-c80f8d250b74",
+      "cd777ee8-6838-4472-847a-c5e3096770e9"
+    ],
+    "0d507a24-7d94-4b1a-a0a8-38a34cb04e36": [
+      "6285ec64-1eb0-4c9e-ae66-355eca5764a8"
+    ],
+    "fc683392-d220-4a38-b3d4-75cf4b309219": [],
+    "6285ec64-1eb0-4c9e-ae66-355eca5764a8": [],
+    "1a6a4b6e-29c9-4cb7-bc7d-785533db1a3e": [],
+    "946cd72f-4bc2-4b8d-a10e-c80f8d250b74": [],
+    "cd777ee8-6838-4472-847a-c5e3096770e9": []
+  },
+  "expectedEntriesRepresentation": [
+    {
+      "name": "a",
+      "held": "33.00",
+      "isCompany": true,
+      "company": [
+        {
+          "name": "a1",
+          "held": "50.00",
+          "isCompany": true,
+          "company": [{ "name": "a11", "held": "40.00", "isCompany": false }]
+        },
+        { "name": "a2", "held": "50.00", "isCompany": false }
+      ]
+    },
+    { "name": "b", "held": "33.00", "isCompany": false },
+    {
+      "name": "c",
+      "held": "34.00",
+      "isCompany": true,
+      "company": [
+        { "name": "c1", "held": "30.00", "isCompany": false },
+        { "name": "c2", "held": "40.00", "isCompany": false },
+        { "name": "c3", "held": "30.00", "isCompany": false }
+      ]
+    }
+  ]
+}

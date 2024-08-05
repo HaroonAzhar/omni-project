@@ -1,0 +1,8 @@
+{
+  "/api/dip/form": "/dip_form",
+  "/api/dip/da2d4e2d-3865-4654-a18d-14bb4bd7863d": "/constant_dip_form",
+  "/api/cases": "/cases",
+  "/api/dip": "/create_dip",
+  "/api/case": "/create_case",
+  "/api/dashboard": "/dashboard"
+}

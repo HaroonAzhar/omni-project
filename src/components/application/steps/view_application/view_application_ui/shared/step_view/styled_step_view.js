@@ -1,0 +1,12 @@
+import styled from "styled-components";
+
+export const StepViewTitle = styled.div`
+  background-color: ${({ theme }) => theme.colors.main};
+  border-radius: 5px;
+  color: ${({ theme }) => theme.colors.white};
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px;
+  text-align: left;
+`;

@@ -1,0 +1,272 @@
+[
+  {
+    "balance_adjustments": [303800],
+    "end_balance": 307650,
+    "from": "2019-12-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 303928.3333333333,
+    "to": "2020-01-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 311500,
+    "from": "2020-01-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 307778.3333333333,
+    "to": "2020-02-28T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 315350,
+    "from": "2020-02-29T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 311628.3333333333,
+    "to": "2020-03-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 319200,
+    "from": "2020-03-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 315478.3333333333,
+    "to": "2020-04-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 323050,
+    "from": "2020-04-30T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 319328.3333333333,
+    "to": "2020-05-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 326900,
+    "from": "2020-05-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 323178.3333333333,
+    "to": "2020-06-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 330750,
+    "from": "2020-06-30T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 327028.3333333333,
+    "to": "2020-07-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 334600,
+    "from": "2020-07-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 330878.3333333333,
+    "to": "2020-08-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 338450,
+    "from": "2020-08-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 334728.3333333333,
+    "to": "2020-09-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 342300,
+    "from": "2020-09-30T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 338578.3333333333,
+    "to": "2020-10-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 346150,
+    "from": "2020-10-31T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3850,
+    "start_balance": 342428.3333333333,
+    "to": "2020-11-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 349743.3333333333,
+    "from": "2020-11-30T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 3593.3333333333335,
+    "start_balance": 346278.3333333333,
+    "to": "2020-12-27T00:00:00"
+  },
+  {
+    "balance_adjustments": [0],
+    "end_balance": 350222.2394822979,
+    "from": "2020-12-28T00:00:00",
+    "in_default": false,
+    "in_extension": false,
+    "interest": 478.90614896459584,
+    "start_balance": 349871.6666666667,
+    "to": "2020-12-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [0, 0],
+    "end_balance": 350222.2394822979,
+    "from": "2020-12-30T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 0,
+    "start_balance": 350222.2394822979,
+    "to": "2020-12-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [0],
+    "end_balance": 350572.8122979292,
+    "from": "2020-12-31T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 350.57281563126253,
+    "start_balance": 350572.8122979292,
+    "to": "2020-12-31T00:00:00"
+  },
+  {
+    "balance_adjustments": [0],
+    "end_balance": 350923.3851135605,
+    "from": "2021-01-01T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 350.57281563126253,
+    "start_balance": 350923.3851135605,
+    "to": "2021-01-01T00:00:00"
+  },
+  {
+    "balance_adjustments": [0],
+    "end_balance": 351273.9579291917,
+    "from": "2021-01-02T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 350.57281563126253,
+    "start_balance": 351273.9579291917,
+    "to": "2021-01-02T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 360388.85113560455,
+    "from": "2021-01-03T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 9114.893206412826,
+    "start_balance": 351624.530744823,
+    "to": "2021-01-28T00:00:00"
+  },
+  {
+    "balance_adjustments": [0],
+    "end_balance": 360739.42395123583,
+    "from": "2021-01-29T00:00:00",
+    "in_default": false,
+    "in_extension": true,
+    "interest": 350.57281563126253,
+    "start_balance": 360739.42395123583,
+    "to": "2021-01-29T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 360739.42395123583,
+    "from": "2021-01-30T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 0,
+    "start_balance": 360739.42395123583,
+    "to": "2021-01-30T00:00:00"
+  },
+  {
+    "balance_adjustments": [],
+    "end_balance": 361460.9027991383,
+    "from": "2021-01-31T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 721.4788479024716,
+    "start_balance": 361100.163375187,
+    "to": "2021-02-01T00:00:00"
+  },
+  {
+    "balance_adjustments": [-1000, 1000],
+    "end_balance": 361821.6422230895,
+    "from": "2021-02-02T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 360.7394239512358,
+    "start_balance": 361821.6422230895,
+    "to": "2021-02-02T00:00:00"
+  },
+  {
+    "balance_adjustments": [-1000, -123, -123, -1000, 1000, 1000],
+    "end_balance": 361936.13564704073,
+    "from": "2021-02-03T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 360.4934239512358,
+    "start_balance": 361936.13564704073,
+    "to": "2021-02-03T00:00:00"
+  },
+  {
+    "balance_adjustments": [-1000],
+    "end_balance": 363093.09619074815,
+    "from": "2021-02-04T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 2156.9605437074147,
+    "start_balance": 361295.629070992,
+    "to": "2021-02-09T00:00:00"
+  },
+  {
+    "balance_adjustments": [-1000, -1000, 1000],
+    "end_balance": 362451.5896146994,
+    "from": "2021-02-10T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 358.4934239512358,
+    "start_balance": 362451.5896146994,
+    "to": "2021-02-10T00:00:00"
+  },
+  {
+    "balance_adjustments": [123, -1000],
+    "end_balance": 361932.20603865065,
+    "from": "2021-02-11T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 357.6164239512358,
+    "start_balance": 361932.20603865065,
+    "to": "2021-02-11T00:00:00"
+  },
+  {
+    "balance_adjustments": [1000],
+    "end_balance": 364008.05531050434,
+    "from": "2021-02-12T00:00:00",
+    "in_default": true,
+    "in_extension": false,
+    "interest": 1075.8492718537075,
+    "start_balance": 363290.8224626019,
+    "to": "2021-02-14T00:00:00"
+  }
+]

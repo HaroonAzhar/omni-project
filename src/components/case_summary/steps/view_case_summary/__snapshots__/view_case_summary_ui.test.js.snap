@@ -1,0 +1,483 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewCaseSummaryUI snapshot test 1`] = `
+<div
+  className="sc-jTzLTM dwmNrE"
+>
+  <div
+    className="sc-VigVT eEOdE"
+  >
+    <div
+      className="sc-iQKALj uBTqT"
+    >
+      <h1
+        className="h1__H1-c67eqf-0 fCaALu"
+      >
+        View Case Summary
+      </h1>
+    </div>
+    <div
+      className="sc-jzJRlG dPOBZH"
+    >
+      <div
+        className="sc-fjdhpX grujWs"
+        color="#FFFFFF"
+      >
+        foo
+        <button
+          className="sc-cSHVUG bJEwwt"
+          color="#FFFFFF"
+          onClick={[Function]}
+          type="button"
+        >
+          x
+        </button>
+      </div>
+    </div>
+    <button
+      className="button__Button-sc-1dnuurt-0 sc-tilXH dBiYUN"
+      kind="extra"
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="sc-ktHwxA jyPwIH"
+      >
+        Case Overview -  - 16/02/2021
+      </div>
+    </button>
+    <div
+      className="sc-hEsumM xOvCU"
+    >
+      <div
+        className="sc-chPdSV hUOUYY"
+      >
+        <p
+          className="sc-kAzzGY kbipBn"
+        >
+          Executive summary
+          :
+        </p>
+        <div
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "<h2>Borrower:</h2><br /><br /><h2>Loan Requirement:</h2><br /><br /><h2>Loan Purpose:</h2><br /><br /><h2>Loan Rationale:</h2><br /><br /><h2>Security:</h2><br /><br /><h2>Exit:</h2>",
+            }
+          }
+        />
+      </div>
+      Expected Completion Date: 
+    </div>
+    <button
+      className="button__Button-sc-1dnuurt-0 sc-tilXH dBiYUN"
+      kind="extra"
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="sc-ktHwxA jyPwIH"
+      >
+        Security - foo bar second - Bruton Knowles LLP
+      </div>
+    </button>
+    <div
+      className="sc-hEsumM xOvCU"
+    >
+      <div
+        className="styled_table__StyledTable-pdereq-0 cKeRGk"
+        kind={Object {}}
+      >
+        <table>
+          <thead>
+            <tr>
+              <th
+                colSpan={1}
+              >
+                
+              </th>
+              <th
+                colSpan={1}
+              >
+                Title Numbers
+              </th>
+              <th
+                colSpan={1}
+              >
+                Surveyor
+              </th>
+              <th
+                colSpan={1}
+              >
+                Date
+              </th>
+              <th
+                colSpan={1}
+              >
+                OMV
+              </th>
+              <th
+                colSpan={1}
+              >
+                OMV 90 day
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              className=""
+            >
+              <td>
+                Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, NR14 7PZ
+              </td>
+              <td>
+                foo, bar
+              </td>
+              <td>
+                
+              </td>
+              <td>
+                
+              </td>
+              <td>
+                £500,000.00
+              </td>
+              <td>
+                £0.00
+              </td>
+            </tr>
+            <tr
+              className=""
+            >
+              <td>
+                B 2 B Cashflow Solutions Ltd, Manor Farm Barns, Fox Road, Framingham Pigot, NR14 7PZ
+              </td>
+              <td>
+                second
+              </td>
+              <td>
+                adas, ind adas
+              </td>
+              <td>
+                08/02/2021
+              </td>
+              <td>
+                £100,000.00
+              </td>
+              <td>
+                £200,000.00
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        className="sc-cIShpX kxMoVY"
+      >
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Description of property
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>Nice styled description</p><p><br></p><p>with <strong>bold</strong> and with <u>underline</u></p><p><br></p><p><span style=\\"color: rgb(230, 0, 0);\\">so much color</span></p>",
+                }
+              }
+            />
+          </div>
+        </div>
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Analysis of Property
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>Analysis of Property (including review of comparable evidence, risks, mitigations, planning</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      className="button__Button-sc-1dnuurt-0 sc-tilXH dBiYUN"
+      kind="extra"
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="sc-ktHwxA jyPwIH"
+      >
+        Risk And Mitigation (2)
+      </div>
+    </button>
+    <div
+      className="sc-hEsumM xOvCU"
+    >
+      <div
+        className="sc-cIShpX kxMoVY"
+      >
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="styled_table__StyledTable-pdereq-0 cKeRGk"
+            kind={Object {}}
+          >
+            <table>
+              <thead>
+                <tr>
+                  <th
+                    colSpan={1}
+                  >
+                    Risk
+                  </th>
+                  <th
+                    colSpan={1}
+                  >
+                    Mitigation
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr
+                  className=""
+                >
+                  <td>
+                    goo
+                  </td>
+                  <td>
+                    foo
+                  </td>
+                </tr>
+                <tr
+                  className=""
+                >
+                  <td>
+                    test
+                  </td>
+                  <td>
+                    third
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Underwriter Rationale
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>rational</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      className="button__Button-sc-1dnuurt-0 sc-tilXH dBiYUN"
+      kind="extra"
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="sc-ktHwxA jyPwIH"
+      >
+        Further Comments
+      </div>
+    </button>
+    <div
+      className="sc-hEsumM xOvCU"
+    >
+      <div
+        className="sc-cIShpX kxMoVY"
+      >
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Exit Strategy
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>exit st</p>",
+                }
+              }
+            />
+          </div>
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Ongoing Monitoring
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>ong moni</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Special Conditions
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>very special</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      className="button__Button-sc-1dnuurt-0 sc-tilXH dBiYUN"
+      kind="extra"
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="sc-ktHwxA jyPwIH"
+      >
+        Borrower Profile and Client Meeting (09/02/2021 - First gentelmanSecond lady)
+      </div>
+    </button>
+    <div
+      className="sc-hEsumM xOvCU"
+    >
+      <div
+        className="sc-cIShpX kxMoVY"
+      >
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Borrower Profile
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>profile</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+        <div
+          className="sc-kafWEX fQbpHi"
+        >
+          <div
+            className="sc-chPdSV hUOUYY"
+          >
+            <p
+              className="sc-kAzzGY kbipBn"
+            >
+              Client meeting notes
+              :
+            </p>
+            <div
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "<p>Some important notes</p>",
+                }
+              }
+            />
+          </div>
+        </div>
+      </div>
+      <div
+        className="styled_table__StyledTable-pdereq-0 cKeRGk"
+        kind={Object {}}
+      >
+        <table>
+          <thead>
+            <tr>
+              <th
+                colSpan={1}
+              >
+                Cross-Collateralised Loans
+              </th>
+              <th
+                colSpan={1}
+              >
+                Status
+              </th>
+              <th
+                colSpan={1}
+              >
+                Stage
+              </th>
+              <th
+                colSpan={1}
+              >
+                
+              </th>
+            </tr>
+          </thead>
+          <tbody />
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;

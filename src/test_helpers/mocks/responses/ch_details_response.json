@@ -1,0 +1,62 @@
+{
+  "has_been_liquidated": false,
+  "type": "ltd",
+  "sic_codes": ["62090"],
+  "undeliverable_registered_office_address": false,
+  "company_number": "08503849",
+  "date_of_creation": "2013-04-25",
+  "registered_office_address": {
+    "postal_code": "N1 6NG",
+    "country": "England",
+    "address_line_1": "12-18 Hoxton Street",
+    "locality": "London",
+    "care_of": "THE ACCOUNTANCY CLOUD"
+  },
+  "company_name": "UCREATE LIMITED Foo",
+  "jurisdiction": "england-wales",
+  "last_full_members_list_date": "2015-12-29",
+  "accounts": {
+    "accounting_reference_date": { "month": "12", "day": "31" },
+    "last_accounts": {
+      "period_start_on": "2018-04-01",
+      "made_up_to": "2019-03-31",
+      "period_end_on": "2019-03-31"
+    },
+    "next_due": "2020-12-31",
+    "next_made_up_to": "2019-12-31",
+    "next_accounts": {
+      "period_start_on": "2019-04-01",
+      "due_on": "2020-12-31",
+      "overdue": false,
+      "period_end_on": "2019-12-31"
+    },
+    "overdue": false
+  },
+  "status": "active",
+  "has_insolvency_history": false,
+  "etag": "75f3e220e3f23961402094caeef2f010f40ef82f",
+  "company_status": "active",
+  "has_charges": true,
+  "previous_company_names": [
+    {
+      "effective_from": "2013-04-25",
+      "name": "UCREATE WORLDWIDE LIMITED",
+      "ceased_on": "2015-02-21"
+    }
+  ],
+  "confirmation_statement": {
+    "next_made_up_to": "2020-12-29",
+    "overdue": false,
+    "next_due": "2021-02-09",
+    "last_made_up_to": "2019-12-29"
+  },
+  "links": {
+    "self": "/company/08503849",
+    "filing_history": "/company/08503849/filing-history",
+    "officers": "/company/08503849/officers",
+    "persons_with_significant_control_statements": "/company/08503849/persons-with-significant-control-statements",
+    "charges": "/company/08503849/charges"
+  },
+  "registered_office_is_in_dispute": false,
+  "can_file": true
+}

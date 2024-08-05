@@ -1,0 +1,10 @@
+export { default as SolicitorSection } from "./solicitor";
+export { default as DrawDownRequestSection } from "./draw_down_request";
+export { default as CreditSafeSection } from "./credit_safe";
+export { default as LandChargesSection } from "./land_charges";
+export { default as LandRegistrySection } from "./land_registry";
+export { default as AMLSection } from "./aml";
+export { default as ExperianSection } from "./experian";
+export { default as ReinspectionValuationSection } from "./reinspection_valuation";
+export { default as InsuranceSection } from "./insurance";
+export { default as DocumentsSection } from "./documents";

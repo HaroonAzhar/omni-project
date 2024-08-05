@@ -1,0 +1,12 @@
+export { default as IntroducerDetailsView } from "./introducer_details_view";
+export { default as CompanyDetailsView } from "./company_details_view";
+export { default as ApplicantDetailsView } from "./applicant_details_view";
+export { default as CreditHistoryTableView } from "./credit_history_table_view";
+export { default as AmlKycView } from "./aml_kyc_view";
+export { default as LoanDetailsView } from "./loan_details_view";
+export { default as SecurityDetailsView } from "./security_details_view";
+export { default as ValuationReportView } from "./valuation_report_view";
+export { default as SolicitorDetailsView } from "./solicitor_details_view";
+export { default as AdditionalInformationView } from "./additional_information_view";
+export { default as AssetsAndLiabilitiesView } from "./assets_and_liabilities_view";
+export { default as DeclarationsAndSignituresView } from "./declarations_and_signatures_view";

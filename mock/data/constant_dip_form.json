@@ -1,0 +1,48 @@
+{
+  "id": 1,
+  "data": [
+    {
+      "type": "dip_form",
+      "id": "da2d4e2d-3865-4654-a18d-14bb4bd7863d",
+      "attributes": {
+        "form": {
+          "loan": {
+            "type": "multiple"
+          },
+          "applicant_details": {
+            "type": "company"
+          },
+          "company_details": {
+            "company_name": "Glover and Sons",
+            "address": "51395 Cartwright Manor Suite 794",
+            "zip": "16388",
+            "email": "Hazel_Mayert@gmail.com"
+          },
+          "securities": {
+            "zip": "42725-7701",
+            "openmarket_value": "131.08"
+          },
+          "loan_property": {
+            "type": "none",
+            "building_details": true
+          },
+          "loan_details": {
+            "loan_amount": "393.28",
+            "gross_load_amount": "129.40",
+            "market_value": "267.32",
+            "loan_term": 22,
+            "arrangement_fee": 40,
+            "interest_rate": 11,
+            "insurance_fee": "847.96",
+            "legal_fee": "555.30",
+            "commission_free": "389.81"
+          },
+          "financial_details": {
+            "max_ltv": 23,
+            "ltv_gdv": 26
+          }
+        }
+      }
+    }
+  ]
+}

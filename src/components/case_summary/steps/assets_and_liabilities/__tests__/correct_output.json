@@ -1,0 +1,41 @@
+{
+  "properties": [
+    {
+      "address": "exampleAddressLine1 exampleAddressLine2 exampleCity",
+      "lender_name": "exampleNameOfLender",
+      "estimated_value": "£123.00",
+      "current_debt": "£123.00",
+      "mortgage": "£123.00",
+      "rental": "£123.00"
+    },
+    {
+      "address": "exampleAddressLine4 exampleAddressLine4 exampleCity4",
+      "estimated_value": "£111.00",
+      "current_debt": "£111.00",
+      "mortgage": "£111.00",
+      "rental": "£111.00"
+    }
+  ],
+  "otherAssets": [
+    {
+      "name": "Vehicle",
+      "price": "£123,123.00"
+    },
+    {
+      "name": "Equities",
+      "price": "£21,311.00"
+    }
+  ],
+  "liabilities": [
+    {
+      "name": "Another liability1",
+      "price": "£123.00"
+    },
+    {
+      "name": "Another liability2",
+      "price": "£111.00"
+    }
+  ],
+  "totalValueOfAssets": 144434,
+  "totalValueOfLiabilities": 234
+}

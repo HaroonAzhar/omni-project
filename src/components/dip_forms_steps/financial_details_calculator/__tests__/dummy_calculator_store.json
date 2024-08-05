@@ -1,0 +1,118 @@
+{
+  "calculatorStarterStore": {
+    "IntroducerType": "via_broker",
+    "broker_name": "Broker name",
+    "broker_email": "broker@broker.com",
+    "broker_company_name": "Broiker comapny name",
+    "AdvanceType": "multiple",
+    "ContactType": "individual",
+    "applicants": [
+      {
+        "name": "Bartek",
+        "email": "bartek@bartek.bartek"
+      }
+    ],
+    "securities": [
+      {
+        "isManualEditVisible": true,
+        "security_address_line_1": "London Road",
+        "security_town_city": "Glasgow",
+        "security_address_line_2": "Glasgow City, Scotland",
+        "security_country": "united kingdom",
+        "security_postcode": "12312",
+        "SecurityInitialEstimation": "100001.00",
+        "security_type": "commercial",
+        "opfl_charge_type": "second_charge",
+        "Estimated90DayGdv": 100,
+        "ValueExistingMortgage": 0
+      },
+      {
+        "isManualEditVisible": true,
+        "security_address_line_1": "124, Portman Street",
+        "security_town_city": "Glasgow",
+        "security_address_line_2": "Glasgow City, Scotland",
+        "security_country": "united kingdom",
+        "security_postcode": "G41 1EJ",
+        "SecurityInitialEstimation": "100001.00",
+        "security_type": "residental",
+        "opfl_charge_type": "first_charge",
+        "Estimated90DayGdv": 1000
+      }
+    ],
+    "building_type": "non_development",
+    "LoanType": "rolled_up",
+    "loan_purpose": "purchase",
+    "LoanTerm": "12",
+    "ArrangementFee": 1,
+    "IntermediaryCommissionFeeValue": 1,
+    "IntermediaryCommissionFeePercent": 1,
+    "ArrangementFeeRepayment": 1,
+    "ExitFeeIntermediary": 100,
+    "InterestRate": 1,
+    "TitleInsuranceFee": 1
+  },
+  "calculatorState": {
+    "calculatorInput": {
+      "arrangement_fee_percent": 0.01,
+      "exit_fee_percent": 0.01,
+      "monthly_interest_rate": 0.01,
+      "title_insurance_fee": 1,
+      "completion_administration_fee": 400,
+      "lenders_insurance_fee": 250,
+      "further_advances": null,
+      "max_gross_ltv": null,
+      "initial_term": 12,
+      "total_valuations": 200002,
+      "gdv": 200002,
+      "type": "rolled_up",
+      "total_first_charge_outstanding": 0,
+      "broker_fee_in": 0.015,
+      "broker_fee_out": 0.015
+    },
+    "calculator_response": {
+      "advanced_interest": 0,
+      "arrangement_fee_in_value": 6.51,
+      "broker_fee_in_value": 9.76,
+      "broker_fee_out_value": 9.76,
+      "exit_fee_value": 2000.02,
+      "gross_amount_of_first_advance": 657.51,
+      "gross_day_one_ltv": 0.004,
+      "gross_loan": 657.51,
+      "gross_loan_first_advance": 657.51,
+      "max_total_net_loan_available": 0,
+      "net_amount_of_first_advance": 0,
+      "total_fees": 651,
+      "total_loan_amount": 0,
+      "total_loan_facility": 657.51
+    },
+    "arrangement_fee_advance_date": "1",
+    "arrangement_fee_repayment_date": "1",
+    "exit_fee_intermediary": 100,
+    "completion_administration_fee": 400,
+    "interest_rate": "1",
+    "intermediary_commission_fee": "1",
+    "market_value": 200002,
+    "premium_for_lenders_insurance": 250,
+    "starting_point": "market_value",
+    "title_insurance_fee": "1.00",
+    "value_type_of_arrangement_fee_advance_date": "percent",
+    "value_type_of_arrangement_fee_repayment_date": "percent",
+    "value_type_of_intermediary_commission_fee": "percent"
+  },
+  "calculator_response": {
+    "advanced_interest": 0,
+    "arrangement_fee_in_value": 6.51,
+    "broker_fee_in_value": 9.76,
+    "broker_fee_out_value": 9.76,
+    "exit_fee_value": 2000.02,
+    "gross_amount_of_first_advance": 657.51,
+    "gross_day_one_ltv": 0.004,
+    "gross_loan": 657.51,
+    "gross_loan_first_advance": 657.51,
+    "max_total_net_loan_available": 0,
+    "net_amount_of_first_advance": 0,
+    "total_fees": 651,
+    "total_loan_amount": 0,
+    "total_loan_facility": 657.51
+  }
+}

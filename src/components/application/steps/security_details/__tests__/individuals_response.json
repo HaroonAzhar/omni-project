@@ -1,0 +1,138 @@
+{
+    "data": {
+        "type": "applicant_form",
+        "attributes": {
+            "company": [],
+            "individuals": [
+                {
+                    "applicant_id": 1,
+                    "personal_data": {
+                        "title": "1",
+                        "forename": "forename a",
+                        "middle_name": "middlename a",
+                        "surname": "surname a",
+                        "other_name": "1",
+                        "date_of_birth": "2020-05-16",
+                        "city_of_birth": "1",
+                        "insurance_number": "1",
+                        "nationality": "1",
+                        "permanent_resident": false,
+                        "marital_status": "single",
+                        "mothers_maiden_name": "1"
+                    },
+                    "contact": {
+                        "email": "email@test.com",
+                        "home_phone": "+111 111 111",
+                        "mobile_phone": "+222 222 222",
+                        "work_phone": "+333 333 333",
+                        "contact_method": "phone",
+                        "number_of_dependants": "2"
+                    },
+                    "declarations_signatures": {},
+                    "addresses": [
+                        {
+                            "country": "Wielka Brytania"
+                        }
+                    ],
+                    "credit_history": {},
+                    "liabilities": [],
+                    "assets": [],
+                    "property_portfolio": [
+                        {
+                            "address_line_1": "address1",
+                            "address_line_2": "address2",
+                            "postcode": "address3",
+                            "city": "address4",
+                            "country": "address5",
+                            "name_of_lender": "testingNameOfLender",
+                            "estimated_value": 333,
+                            "current_debt": 333,
+                            "monthly_mortgage": 333,
+                            "monthly_rental": 333
+                        }
+                    ]
+                },
+                {
+                    "applicant_id": 2,
+                    "personal_data": {
+                        "title": "11",
+                        "forename": "forename b",
+                        "middle_name": "middlename b",
+                        "surname": "surname b",
+                        "other_name": "1",
+                        "mothers_maiden_name": "1"
+                    },
+                    "contact": {
+                        "email": "email2@test.com",
+                        "work_phone": "+444 444 444"
+                    },
+                    "declarations_signatures": {},
+                    "addresses": [
+                        {
+                            "address_line_1": "address1"
+                        },
+                        {},
+                        {
+                            "address_line_1": "1",
+                            "address_line_2": "1",
+                            "postcode": "1",
+                            "city": "1",
+                            "country": "2"
+                        },
+                        {
+                            "address_line_1": "1",
+                            "address_line_2": "1",
+                            "postcode": "1",
+                            "city": "1",
+                            "country": "1"
+                        }
+                    ],
+                    "credit_history": {},
+                    "liabilities": [
+                        {
+                            "description": "another liability1",
+                            "net_value": 123
+                        },
+                        {
+                            "description": "another liability2",
+                            "net_value": 111
+                        }
+                    ],
+                    "assets": [
+                        {
+                            "type": "vehicle",
+                            "description": "verySlowCar",
+                            "gross_value": 123123,
+                            "outstanding_debt": 123,
+                            "net_value": 123123
+                        },
+                        {
+                            "type": "equities",
+                            "description": "google",
+                            "gross_value": 21311,
+                            "outstanding_debt": 11,
+                            "net_value": 21311
+                        }
+                    ],
+                    "property_portfolio": [
+                        {
+                            "address_line_1": "address1",
+                            "address_line_2": "address2",
+                            "postcode": "address3",
+                            "city": "address4",
+                            "country": "uk",
+                            "estimated_value": 11,
+                            "current_debt": 11,
+                            "monthly_mortgage": 11,
+                            "monthly_rental": 11
+                        }
+                    ],
+                    "assets_liabilities_additional": {
+                        "total_liabilities": 234,
+                        "total_assets": 144434
+                    }
+                }
+            ]
+        }
+    }
+}

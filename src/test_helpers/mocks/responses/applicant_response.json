@@ -1,0 +1,97 @@
+{
+  "data": {
+    "type": "applicant_form",
+    "attributes": {
+      "company": [
+        {
+          "applicant_id": 5,
+          "base_data": {
+            "name": "UCREATE LIMITED",
+            "email": "bartek@ucreate.it",
+            "applicant_name": null,
+            "company_number": "08503849",
+            "number_of_partners": "6",
+            "company_type": "ltd",
+            "company_other_type_value": null,
+            "company_registration_number": null,
+            "nature_of_business": null,
+            "trading_since": null
+          },
+          "address": { "is_correspondence_same": null },
+          "directors": [
+            { "name": "Daniel Christey" },
+            { "name": "Peter James Goodman" },
+            { "name": "Matthew Jonns" },
+            { "name": "Pawel Kaminski" },
+            { "name": "Simon Rendell" },
+            { "name": "James Steven Shirley" }
+          ],
+          "shared_holders": [
+            {
+              "name": "C1",
+              "held": "50.00",
+              "isCompany": true,
+              "company": [
+                { "name": "Ind3", "held": "50.00", "isCompany": false },
+                { "name": "Ind1", "held": "25.00", "isCompany": false },
+                {
+                  "name": "C2",
+                  "held": "25.00",
+                  "isCompany": true,
+                  "company": [
+                    { "name": "Ind4", "held": "50.00", "isCompany": false }
+                  ]
+                }
+              ]
+            },
+            { "name": "Ind1", "held": "25.00", "isCompany": false },
+            { "name": "Ind2", "held": "25.00", "isCompany": false }
+          ],
+          "accountant": {
+            "name": "Company accountant name",
+            "surname": "Company accountant surname",
+            "firm": "Company accountant firm",
+            "qualification": "Qualification"
+          }
+        },
+        {
+          "applicant_id": 6,
+          "base_data": {
+            "name": "C2",
+            "email": "",
+            "applicant_name": null,
+            "company_number": null,
+            "number_of_partners": null,
+            "company_type": null,
+            "company_other_type_value": null,
+            "company_registration_number": null,
+            "nature_of_business": null,
+            "trading_since": null
+          },
+          "address": { "is_correspondence_same": null },
+          "directors": null,
+          "shared_holders": null
+        },
+        {
+          "applicant_id": 7,
+          "base_data": {
+            "name": "C1",
+            "email": "",
+            "applicant_name": null,
+            "company_number": null,
+            "number_of_partners": null,
+            "company_type": null,
+            "company_other_type_value": null,
+            "company_registration_number": null,
+            "nature_of_business": null,
+            "trading_since": null
+          },
+          "address": { "is_correspondence_same": null },
+          "directors": null,
+          "shared_holders": null
+        }
+      ],
+      "individuals": [{ "personal_data": { "surname": "test" } }]
+    }
+  }
+}

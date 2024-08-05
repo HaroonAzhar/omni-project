@@ -1,0 +1,134 @@
+{
+  "calculatorResponse": {
+    "advanced_interest": 17475.54,
+    "arrangement_fee_in_value": 8671.77,
+    "broker_fee_in_value": 6503.83,
+    "broker_fee_out_value": 6503.83,
+    "exit_fee_value": 2000,
+    "gross_amount_of_first_advance": 242260.46,
+    "gross_day_one_ltv": 0.6029,
+    "gross_loan": 442260.46,
+    "gross_loan_first_advance": 242260.46,
+    "net_amount_of_first_advance": 232938.69,
+    "total_fees": 650,
+    "total_loan_amount": 432938.69,
+    "total_loan_facility": 442260.46,
+    "intermediary_commission_fee_value": 4335.89,
+    "drawdowns": [
+      {
+        "advance": 232938.69,
+        "arr_fee_out": 0,
+        "date": "16/11/2020",
+        "end_bal": 244683.07,
+        "gross_ltgdv": 0.3852,
+        "gross_ltv": 0.5778,
+        "interest": 2422.61,
+        "interest_paid": 0,
+        "total_fees": 9321.77
+      },
+      {
+        "advance": 33333.35,
+        "arr_fee_out": 0,
+        "date": "16/12/2020",
+        "end_bal": 280796.58,
+        "gross_ltgdv": 0.4253,
+        "gross_ltv": 0.638,
+        "interest": 2780.16,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 33333.33,
+        "arr_fee_out": 0,
+        "date": "16/01/2021",
+        "end_bal": 317271.21,
+        "gross_ltgdv": 0.4659,
+        "gross_ltv": 0.6988,
+        "interest": 3141.3,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 33333.33,
+        "arr_fee_out": 0,
+        "date": "16/02/2021",
+        "end_bal": 354110.59,
+        "gross_ltgdv": 0.5068,
+        "gross_ltv": 0.7602,
+        "interest": 3506.05,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 33333.33,
+        "arr_fee_out": 0,
+        "date": "16/03/2021",
+        "end_bal": 391318.36,
+        "gross_ltgdv": 0.5481,
+        "gross_ltv": 0.8222,
+        "interest": 3874.44,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 33333.33,
+        "arr_fee_out": 0,
+        "date": "16/04/2021",
+        "end_bal": 428898.21,
+        "gross_ltgdv": 0.5899,
+        "gross_ltv": 0.8848,
+        "interest": 4246.52,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 33333.33,
+        "arr_fee_out": 0,
+        "date": "16/05/2021",
+        "end_bal": 466853.86,
+        "gross_ltgdv": 0.6321,
+        "gross_ltv": 0.9481,
+        "interest": 4622.32,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 0,
+        "arr_fee_out": 0,
+        "date": "16/06/2021",
+        "end_bal": 471522.4,
+        "gross_ltgdv": 0.6373,
+        "gross_ltv": 0.9559,
+        "interest": 4668.54,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 0,
+        "arr_fee_out": 0,
+        "date": "16/07/2021",
+        "end_bal": 476237.62,
+        "gross_ltgdv": 0.6425,
+        "gross_ltv": 0.9637,
+        "interest": 4715.22,
+        "interest_paid": 0,
+        "total_fees": 0
+      },
+      {
+        "advance": 0,
+        "arr_fee_out": 2000,
+        "date": "16/08/2021",
+        "end_bal": 483000,
+        "gross_ltgdv": 0.65,
+        "gross_ltv": 0.975,
+        "interest": 4762.38,
+        "interest_paid": 0,
+        "total_fees": 0
+      }
+    ],
+    "xirr": 0.1469,
+    "repayment_date": "Thu, 16 Sep 2021 00:00:00 GMT",
+    "maturity_date": "Wed, 15 Sep 2021 00:00:00 GMT",
+    "gdltv": 0.65
+  }
+}

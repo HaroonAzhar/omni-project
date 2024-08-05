@@ -1,0 +1,2697 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PDF TestCase should render properly component 1`] = `
+<DOCUMENT>
+  <PAGE
+    style={
+      Object {
+        "fontFamily": "GillSans",
+        "padding": 44,
+        "paddingBottom": 0,
+        "paddingTop": 30,
+      }
+    }
+  >
+    <VIEW
+      style={
+        Object {
+          "borderBottomWidth": 0.8,
+          "borderColor": "#D5D7E0",
+          "borderStyle": "solid",
+          "flexDirection": "row",
+          "fontSize": "9",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "flexDirection": "column",
+            "paddingBottom": 10,
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          Omni Property Finance Limited
+        </TEXT>
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          4th Floor
+        </TEXT>
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          15 Golden Square
+        </TEXT>
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          London, W1F 9JG
+        </TEXT>
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "flexDirection": "column",
+              "width": "50%",
+            },
+            Object {
+              "textAlign": "right",
+            },
+          ]
+        }
+      >
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          www.omniproperty.co.uk
+        </TEXT>
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          info@omniproperty.co.uk
+        </TEXT>
+        <TEXT
+          style={
+            Object {
+              "color": "#75787B",
+              "fontSize": 10,
+              "lineHeight": "1.1",
+            }
+          }
+        >
+          020 3540 1600
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "flexDirection": "column",
+            "fontFamily": "GillSans",
+            "fontSize": 10,
+            "fontWeight": 500,
+            "lineHeight": "1.7",
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "textAlign": "left",
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT>
+          Broker name: 
+          broker name
+        </TEXT>
+      </VIEW>
+      <VIEW
+        style={
+          Object {
+            "flexDirection": "column",
+            "fontFamily": "GillSans",
+            "fontSize": 10,
+            "fontWeight": 500,
+            "lineHeight": "1.7",
+            "paddingTop": 10,
+            "textAlign": "right",
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT>
+          Date: 
+          10/02/2020
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "flexDirection": "row",
+          "fontSize": "9",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "flexDirection": "column",
+            "fontFamily": "GillSans",
+            "fontSize": "16",
+            "fontWeight": 600,
+          }
+        }
+      >
+        <TEXT>
+          Decision in Principle
+        </TEXT>
+        <TEXT>
+          Omni Property Finance Limited (
+          "
+          OPFL
+          "
+          )
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW>
+      <TEXT
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "fontWeight": 600,
+              "paddingBottom": 11,
+              "paddingTop": 15,
+            },
+          ]
+        }
+      >
+        Main features of the loan
+      </TEXT>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#FBFBFA",
+          },
+          Object {
+            "borderColor": "#75787B",
+            "borderTopWidth": 1,
+          },
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F4F4F3",
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "padding": 5,
+              "paddingRight": 10,
+              "width": "40%",
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "22%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Case Reference
+        </TEXT>
+        <TEXT />
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "fontWeight": 500,
+              "padding": 5,
+              "width": "38.4%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+              "width": "78%",
+            },
+          ]
+        }
+      >
+        <TEXT>
+          123
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F4F4F3",
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "padding": 5,
+              "paddingRight": 10,
+              "width": "40%",
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "22%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Borrower Name
+        </TEXT>
+        <TEXT />
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "fontWeight": 500,
+              "padding": 5,
+              "width": "38.4%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+              "width": "78%",
+            },
+          ]
+        }
+      >
+        <TEXT>
+          UCREATE LIMITED
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+          Object {
+            "backgroundColor": "#FBFBFA",
+          },
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F4F4F3",
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "padding": 5,
+              "paddingRight": 10,
+              "width": "40%",
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "22%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Security Address
+        </TEXT>
+        <TEXT />
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "fontWeight": 500,
+              "padding": 5,
+              "width": "38.4%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+              "width": "78%",
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Tilbury, RM18, United Kingdom 
+
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F4F4F3",
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "maxWidth": "40%",
+              "padding": 5,
+              "paddingRight": 10,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "22%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Loan Description
+        </TEXT>
+        <TEXT />
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "fontWeight": 500,
+              "padding": 5,
+              "width": "38.4%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+              "width": "78%",
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Single Advance Retained Interest Loan
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Loan Purpose
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Purchase
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Purchase Price
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £12.00
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Security Type
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Residential 
+
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Market Value
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £321.00
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            OPFL Charge
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            First Charge 
+
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Term of the Loan
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            12 Months
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Interest Rate
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (per month)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            1.00%
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Estimated Interest
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (LTV Day 1)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £95.93
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Initial Net Loan
+          </TEXT>
+          <TEXT />
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £33.51
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Total Loan Facility
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £799.43
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "backgroundColor": "#F4F4F3",
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "maxWidth": "40%",
+              "padding": 5,
+              "paddingRight": 10,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "22%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+            },
+          ]
+        }
+      >
+        <TEXT>
+          Build Period
+        </TEXT>
+        <TEXT />
+      </VIEW>
+      <VIEW
+        style={
+          Array [
+            Object {
+              "fontWeight": 500,
+              "padding": 5,
+              "width": "38.4%",
+            },
+            Object {
+              "borderColor": "#75787B",
+              "borderLeftWidth": 1,
+              "borderRightWidth": 1,
+              "width": "78%",
+            },
+          ]
+        }
+      >
+        <TEXT>
+          123 Months
+        </TEXT>
+      </VIEW>
+    </VIEW>
+    <VIEW>
+      <TEXT
+        style={
+          Array [
+            Object {
+              "fontSize": 14,
+              "fontWeight": 600,
+              "paddingBottom": 11,
+              "paddingTop": 15,
+            },
+          ]
+        }
+      >
+        Fees
+      </TEXT>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "40%",
+                "padding": 5,
+                "paddingRight": 10,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderTopWidth": 1,
+                "maxWidth": "55%",
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Arrangement Fee (Total)
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Deducted from first advance)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+                "borderColor": "#75787B",
+                "borderTopWidth": 1,
+                "maxWidth": "35%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £7.99
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderTopWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Arrangement Fee (Intermediary)
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Paid by the lender upon 
+ completion of the loan 
+ from the Arrangement fee)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "borderTopWidth": 1,
+                "maxWidth": "36.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £10.43
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "maxWidth": "55%",
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Completion Administration Fee
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Deducted from first advance)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "maxWidth": "35%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £400.00
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Lender's Insurance Fee
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Deducted from first 
+ advance)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "width": "36.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £250.00
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "maxWidth": "55%",
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Exit Fee (Total)
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Payable on the day 
+ of repayment)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+                "maxWidth": "35%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £12.00
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Exit Fee (Intermediary)
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Payable on the day 
+ of repayment)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+                "maxWidth": "36.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            £321.00
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Array [
+          Object {
+            "borderBottomWidth": 1,
+            "borderColor": "#75787B",
+            "flexDirection": "row",
+            "fontSize": 10,
+            "fontWeight": 600,
+          },
+          undefined,
+        ]
+      }
+    >
+      <VIEW
+        style={
+          Array [
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "flexDirection": "row",
+              "fontSize": 10,
+              "fontWeight": 600,
+            },
+            Object {
+              "borderWidth": 0,
+              "width": "55%",
+            },
+          ]
+        }
+      >
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+              Object {
+                "maxWidth": "55%",
+                "paddingRight": 0,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Lender's Legal Fee
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Paid by borrower direct 
+ to solicitor)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "width": "55%",
+              },
+              Object {
+                "backgroundColor": "#FBFBFA",
+                "maxWidth": "35%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            TBC
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderBottomWidth": 1,
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "maxWidth": "55%",
+                "padding": 5,
+              },
+              Object {
+                "borderWidth": 0,
+                "width": "65%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+              },
+            ]
+          }
+        >
+          <TEXT>
+            Valuation Fee
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "fontWeight": 500,
+                },
+              ]
+            }
+          >
+            (Paid by borrower direct to 
+ valuer)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Array [
+              Object {
+                "fontWeight": 500,
+                "padding": 5,
+                "width": "38.4%",
+              },
+              Object {
+                "backgroundColor": "#FFFFFF",
+                "borderColor": "#75787B",
+                "borderLeftWidth": 1,
+                "borderRightWidth": 1,
+                "width": "46.8%",
+              },
+              Object {
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "width": "36.8%",
+              },
+            ]
+          }
+        >
+          <TEXT>
+            TBC
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <TEXT
+      style={
+        Object {
+          "color": "#323232",
+          "fontSize": 6,
+          "paddingTop": 6,
+        }
+      }
+    >
+      Omni Property Finance is the trading name of Omni Property Finance Limited which is registered for anti-money laundering purposes with the FCA. Our FCA registration number is 913338.
+      
+
+      You can confirm our registration on the FCA’s website www.fca.org.uk or by contacting the FCA on 0800 111 6768. Registered in England & Wales, number 12085679. Registered office: 4th Floor, 15 Golden Square, London, WIF 9JG
+    </TEXT>
+    <VIEW
+      style={
+        Object {
+          "bottom": 0,
+          "flexDirection": "row",
+          "marginLeft": 44,
+          "paddingBottom": 44,
+          "paddingRight": 0,
+          "position": "absolute",
+          "width": "100%",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT
+          style={
+            Object {
+              "color": "#ACAFC1",
+              "fontSize": 8.5,
+            }
+          }
+        >
+          10/02/2020
+        </TEXT>
+      </VIEW>
+      <VIEW
+        style={
+          Object {
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT
+          style={
+            Array [
+              Object {
+                "color": "#ACAFC1",
+                "fontSize": 8.5,
+              },
+              Object {
+                "textAlign": "right",
+              },
+            ]
+          }
+        >
+          Page 
+          1/2
+        </TEXT>
+      </VIEW>
+    </VIEW>
+  </PAGE>
+  <PAGE
+    style={
+      Object {
+        "fontFamily": "GillSans",
+        "padding": 44,
+        "paddingBottom": 0,
+        "paddingTop": 20,
+      }
+    }
+  >
+    <VIEW
+      style={
+        Object {
+          "flexDirection": "row",
+          "fontSize": "9",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "borderBottomWidth": 0,
+            "borderColor": "#75787B",
+            "borderRightWidth": 0,
+            "borderStyle": "solid",
+            "borderWidth": 1,
+            "display": "table",
+            "marginTop": 5,
+          }
+        }
+      >
+        <VIEW
+          style={
+            Object {
+              "borderBottomWidth": 1,
+              "borderColor": "#75787B",
+              "borderRightWidth": 1,
+              "flexDirection": "row",
+              "fontSize": 9,
+              "fontWeight": 600,
+            }
+          }
+        >
+          <VIEW
+            style={
+              Object {
+                "backgroundColor": "#F4F4F3",
+                "borderColor": "#75787B",
+                "borderRightWidth": 1,
+                "fontFamily": "GillSans",
+                "fontSize": 10,
+                "fontWeight": 600,
+                "padding": 11,
+                "width": "23%",
+              }
+            }
+          >
+            <TEXT>
+              Other important
+              
+
+               information
+            </TEXT>
+          </VIEW>
+          <VIEW
+            style={
+              Object {
+                "fontWeight": 500,
+                "lineHeight": 1.3,
+                "padding": 5,
+                "paddingBottom": 0,
+                "width": "77%",
+              }
+            }
+          >
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              If you fail to make the required payments or an event of default arises, the above interest rate may be increased to our default rate, calculated on a daily basis and added to the Loan.
+            </TEXT>
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              A minimum of three months interest is payable if repayment of the Loan occurs within the first three months.
+            </TEXT>
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              It is important that you have a viable exit strategy to repay the capital and any accrued interest at the end of the term.
+            </TEXT>
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              Any agreement is being entered into by you wholly or predominantly for business purposes.
+            </TEXT>
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              Valuation valid for six months from date of inspection.
+               
+              Maximum LTV Day One is 12%
+            </TEXT>
+            <TEXT
+              style={
+                Object {
+                  "fontSize": 10,
+                  "paddingBottom": 5,
+                }
+              }
+            >
+              <TEXT
+                style={
+                  Object {
+                    "fontWeight": 600,
+                  }
+                }
+              >
+                The property(s) we take as security may be repossessed if you do do not make the required payments.
+              </TEXT>
+            </TEXT>
+          </VIEW>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "flexDirection": "column",
+          "lineHeight": "1.2",
+          "paddingRight": 5,
+          "paddingTop": 10,
+        }
+      }
+    >
+      <TEXT
+        style={
+          Object {
+            "fontSize": 8.5,
+            "paddingBottom": 10,
+          }
+        }
+      >
+        Please note these terms are for illustrative purposes only and do not constitute a formal offer or binding commitment to provide any lending facility. In providing this Decision in Principle we have made certain assumptions. These assumptions may change once you apply for a loan and we have fully assessed your application. This may mean that we may be unable to provide you with the loan if you do not meet our criteria.
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "fontSize": 8.5,
+            "paddingBottom": 13,
+          }
+        }
+      >
+        You should not undertake any commitments in reliance on this Decision in Principle. If you are purchasing a property you should not enter into a legally binding agreement based on this illustration. If you do decide to enter into any legally binding agreement then you do so at your own risk.
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "fontFamily": "GillSans",
+            "fontSize": 10,
+            "fontWeight": 600,
+            "paddingBottom": 15,
+          }
+        }
+      >
+        The Decision in Principle is valid for 14 days from the date of this letter.
+      </TEXT>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "backgroundColor": "#F9F9F9",
+          "borderBottom": 0.5,
+          "borderColor": "#D9D9D6",
+          "flexDirection": "column",
+          "padding": 22,
+          "paddingBottom": 6,
+          "paddingTop": 0,
+        }
+      }
+    >
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 10,
+            "fontWeight": 600,
+            "paddingTop": 10,
+          }
+        }
+      >
+        Special Conditions
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 600,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+          }
+        }
+      >
+        Before we are able to agree to provide the funding indicated in this Decision in Principle we will require the following (but not limited to) to be satisfied:
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 500,
+            "lineHeight": 1.5,
+            "paddingRight": 70,
+          }
+        }
+      >
+        1. Satisfactory completion of our underwriting assessment on receipt of a full application;
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 500,
+            "lineHeight": 1.5,
+            "paddingRight": 70,
+          }
+        }
+      >
+        2. Receipt of satisfactory valuation from one of our approved panel of valuers;
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 500,
+            "lineHeight": 1.5,
+            "paddingRight": 70,
+          }
+        }
+      >
+        3. Legal due diligence / Satisfactory report on title;
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 500,
+            "lineHeight": 1.5,
+            "paddingRight": 70,
+          }
+        }
+      >
+        4. Credit Approval;
+      </TEXT>
+      <TEXT
+        style={
+          Object {
+            "color": "#323232",
+            "fontFamily": "GillSans",
+            "fontSize": 9,
+            "fontWeight": 500,
+            "lineHeight": 1.5,
+            "paddingRight": 70,
+          }
+        }
+      >
+        5. Appropriate security in the form of guarantees (personal, interest, capital and cost over runs) and debentures; and
+      </TEXT>
+      <TEXT
+        style={
+          Array [
+            Object {
+              "color": "#323232",
+              "fontFamily": "GillSans",
+              "fontSize": 9,
+              "fontWeight": 500,
+              "lineHeight": 1.5,
+              "paddingRight": 70,
+            },
+            Object {
+              "paddingBottom": 5,
+            },
+          ]
+        }
+      >
+        6. Client meeting.
+      </TEXT>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "flexDirection": "column",
+          "fontSize": "9",
+          "paddingBottom": 10,
+          "paddingTop": 0,
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "backgroundColor": "#F9F9F9",
+            "paddingBottom": 5,
+            "paddingLeft": 19,
+            "paddingRight": 25,
+            "paddingTop": 7,
+          }
+        }
+      >
+        <TEXT
+          style={
+            Object {
+              "color": "#000",
+              "fontSize": 10,
+              "fontWeight": 600,
+              "paddingBottom": 5,
+              "paddingTop": 5,
+            }
+          }
+        >
+          Next steps
+        </TEXT>
+        <TEXT
+          style={
+            Array [
+              Object {
+                "color": "#323232",
+                "fontFamily": "GillSans",
+                "fontWeight": 500,
+                "paddingTop": 3,
+              },
+              Object {
+                "fontWeight": 600,
+                "paddingBottom": 5,
+              },
+            ]
+          }
+        >
+          In order that we may proceed to the next stage the following documentation and information must be provided. This list is not exhaustive and further information may be required by us:
+        </TEXT>
+        <VIEW
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <TEXT
+            style={
+              Object {
+                "paddingTop": 3,
+                "width": 10,
+              }
+            }
+          >
+            • 
+          </TEXT>
+          <TEXT
+            style={
+              Object {
+                "color": "#323232",
+                "fontFamily": "GillSans",
+                "fontWeight": 500,
+                "paddingTop": 3,
+              }
+            }
+          >
+            A fully completed and signed application form (for all borrowers and guarantors);
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <TEXT
+            style={
+              Object {
+                "paddingTop": 3,
+                "width": 10,
+              }
+            }
+          >
+            • 
+          </TEXT>
+          <TEXT
+            style={
+              Object {
+                "color": "#323232",
+                "fontFamily": "GillSans",
+                "fontWeight": 500,
+                "paddingTop": 3,
+              }
+            }
+          >
+            Proof of identification (UK Passport, Non-UK Passport or UK Photocard Full Driving Licence)
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <TEXT
+            style={
+              Object {
+                "paddingTop": 3,
+                "width": 10,
+              }
+            }
+          >
+            • 
+          </TEXT>
+          <TEXT
+            style={
+              Object {
+                "color": "#323232",
+                "fontFamily": "GillSans",
+                "fontWeight": 500,
+                "paddingTop": 3,
+              }
+            }
+          >
+            Proof of Residency dated within the last 3 months (Council Tax Demand or Statement, Bank Statement or Credit Card Statement, Utility Bill, Photocard Full Driving Licence); and
+          </TEXT>
+        </VIEW>
+        <VIEW
+          style={
+            Object {
+              "flexDirection": "row",
+            }
+          }
+        >
+          <TEXT
+            style={
+              Object {
+                "paddingTop": 3,
+                "width": 10,
+              }
+            }
+          >
+            • 
+          </TEXT>
+          <TEXT
+            style={
+              Array [
+                Object {
+                  "color": "#323232",
+                  "fontFamily": "GillSans",
+                  "fontWeight": 500,
+                  "paddingTop": 3,
+                },
+                Object {
+                  "paddingBottom": 5,
+                },
+              ]
+            }
+          >
+            CV
+          </TEXT>
+        </VIEW>
+      </VIEW>
+    </VIEW>
+    <TEXT
+      style={
+        Object {
+          "fontSize": 8.5,
+          "padding": 10,
+          "paddingLeft": 0,
+          "paddingRight": 5,
+          "paddingTop": 5,
+        }
+      }
+    >
+      The terms of this letter and any dispute or claim arising out of or in connection with it will be governed by and construed in accordance with English & Welsh law and subject to the jurisdiction of the courts of England.
+    </TEXT>
+    <TEXT
+      style={
+        Object {
+          "fontSize": 8.5,
+          "padding": 10,
+          "paddingBottom": 0,
+          "paddingLeft": 3,
+          "paddingRight": 28,
+          "paddingTop": 0,
+        }
+      }
+    >
+      Yours faithfully,
+    </TEXT>
+    <IMAGE
+      src="/img/sign.jpg"
+      style={
+        Object {
+          "paddingLeft": 3,
+          "width": "20%",
+        }
+      }
+    />
+    <TEXT
+      style={
+        Object {
+          "fontSize": 6.3,
+          "paddingLeft": 3,
+          "paddingTop": 5,
+        }
+      }
+    >
+      Elissa von Broembsen-Kluever
+    </TEXT>
+    <TEXT
+      style={
+        Array [
+          Object {
+            "fontSize": 8.5,
+            "padding": 10,
+            "paddingBottom": 0,
+            "paddingLeft": 3,
+            "paddingRight": 28,
+            "paddingTop": 0,
+          },
+          Object {
+            "paddingBottom": 5,
+          },
+        ]
+      }
+    >
+      For and on behalf of Omni Property Finance Limited
+    </TEXT>
+    <VIEW
+      style={
+        Object {
+          "borderColor": "#D5D7E0",
+          "borderTopWidth": 0.5,
+          "marginRight": 5,
+          "marginTop": 3,
+          "paddingRight": 10,
+          "paddingTop": 3,
+        }
+      }
+    >
+      <TEXT
+        style={
+          Array [
+            Object {
+              "fontSize": 10,
+              "fontWeight": 600,
+              "paddingBottom": 0,
+            },
+            Object {
+              "paddingTop": 5,
+            },
+          ]
+        }
+      >
+        This letter merely sets out the basis upon which we are prepared to process a final application from you and is not in any way a binding commitment on the part of Omni Property Finance Limited or any of its Officers.
+      </TEXT>
+    </VIEW>
+    <VIEW
+      style={
+        Object {
+          "bottom": 0,
+          "flexDirection": "row",
+          "marginLeft": 44,
+          "paddingBottom": 44,
+          "paddingRight": 0,
+          "position": "absolute",
+          "width": "100%",
+        }
+      }
+    >
+      <VIEW
+        style={
+          Object {
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT
+          style={
+            Object {
+              "color": "#ACAFC1",
+              "fontSize": 8.5,
+            }
+          }
+        >
+          10/02/2020
+        </TEXT>
+      </VIEW>
+      <VIEW
+        style={
+          Object {
+            "width": "50%",
+          }
+        }
+      >
+        <TEXT
+          style={
+            Array [
+              Object {
+                "color": "#ACAFC1",
+                "fontSize": 8.5,
+              },
+              Object {
+                "textAlign": "right",
+              },
+            ]
+          }
+        >
+          Page 
+          2/2
+        </TEXT>
+      </VIEW>
+    </VIEW>
+  </PAGE>
+</DOCUMENT>
+`;

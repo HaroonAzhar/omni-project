@@ -1,0 +1,7956 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prepare Data for case summary should return matching output for retained case 1`] = `
+Object {
+  "cloneList": Array [
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{CIRow}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{priorChargeOnlyPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{securityOnlyPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyWitnessPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyTableApplicantsRow}}",
+        "repeat": NaN,
+      },
+    },
+  ],
+  "removeList": Array [
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{rolled_upOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{rolled_upOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{servicedOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{servicedOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{nitrateNeutralityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{aonbOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{listedBuildingOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{floodzoneOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sangOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{greenbeltOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sssiOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{esw1OnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "propertyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{riskRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{companyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "purchasePrice",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "titleInsuranceRowOnly",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "furtherDrawdownRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "additionalTransactionRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "needle": "DRAFT",
+        "target": "header",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{developmentOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{multipleAdvanceOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{companyOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyTransactionDocumentsOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "servicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "notretainedRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "rolled_upOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartServiceOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartRolledOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRolledPartServicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "collateralWarrantyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{buildingInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{publicLiabilityInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{contractorsAllRiskOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{isDateOutstandingOpflOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyLendersSecurityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{thirdPartyLegalChargeOnly}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{guarantorOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "brokerOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "specialConditionsOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{corporateOnlyWitnessPara}}",
+      },
+    },
+  ],
+  "replaceVars": Array [
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "s_Address",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_titleNumber",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_thirdPartyLegalCharge",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_thirdPartyLegalChargeDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchasePrice",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchaseDate",
+    },
+    Object {
+      "value": Array [
+        "75.00%",
+      ],
+      "var": "s_grossLTV",
+    },
+    Object {
+      "value": Array [
+        "£100,000.00",
+      ],
+      "var": "s_openMarketValue",
+    },
+    Object {
+      "value": Array [
+        "75.00%",
+      ],
+      "var": "s_openMarketGLTV",
+    },
+    Object {
+      "value": Array [
+        "£700,000.00",
+      ],
+      "var": "s_90DayValue",
+    },
+    Object {
+      "value": Array [
+        "10.71%",
+      ],
+      "var": "s_90DayGLTV",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_GDV",
+    },
+    Object {
+      "value": Array [
+        "0.00%",
+      ],
+      "var": "s_LTGDV",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_singleMultiUnit",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_areaPrice",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_totalArea",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_marketRent",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_valuerIndividual",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_valuerFirm",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_valuer",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_valuationDate",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_planningReference",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_planningExpiryDate",
+    },
+    Object {
+      "value": Array [],
+      "var": "s_planningLinks",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstNitrateNeutrality",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstAONB",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstListed",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstFloodZone",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSANG",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstGreenBelt",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSSSI",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstESW1",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_sstComment",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nitrateNeutralityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aonbOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "listedBuildingOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "floodzoneOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sangOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "greenbeltOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sssiOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "esw1OnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityRow",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalAssets",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalLiabilities",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Address",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Lender",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Value",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Debt",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_MortgagePayment",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Rent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "propertyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "assetRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liabilityRow",
+    },
+    Object {
+      "value": Array [],
+      "var": "risk",
+    },
+    Object {
+      "value": Array [],
+      "var": "riskMitigation",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "riskRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyNumber",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyIncorporationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Shareholding",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Role",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Guarantor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CIRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerCompanyName",
+    },
+    Object {
+      "value": Array [
+        "debug forename surname",
+      ],
+      "var": "borrowerNameCombined",
+    },
+    Object {
+      "value": Array [
+        "10065-DEBU",
+      ],
+      "var": "caseReference",
+    },
+    Object {
+      "value": Array [
+        "Residential",
+      ],
+      "var": "loanType",
+    },
+    Object {
+      "value": Array [
+        "Residential",
+      ],
+      "var": "propertyType",
+    },
+    Object {
+      "value": Array [
+        "Retained",
+      ],
+      "var": "interestType",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicingMethodRationale",
+    },
+    Object {
+      "value": Array [
+        "1st (Standard Security)",
+      ],
+      "var": "chargePriority",
+    },
+    Object {
+      "value": Array [
+        "12",
+      ],
+      "var": "loanTerm",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTerm",
+    },
+    Object {
+      "value": Array [
+        "1.00%",
+      ],
+      "var": "interestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "expectedExit",
+    },
+    Object {
+      "value": Array [
+        "141.66%",
+      ],
+      "var": "expectedIRR",
+    },
+    Object {
+      "value": Array [
+        "£30,460.31",
+      ],
+      "var": "initialNetLoan",
+    },
+    Object {
+      "value": Array [
+        "£36,889.70",
+      ],
+      "var": "totalInterest",
+    },
+    Object {
+      "value": Array [
+        "£73,000.01",
+      ],
+      "var": "totalLoanFacility",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "furtherDrawdownTotal",
+    },
+    Object {
+      "value": Array [
+        "£36,889.70",
+      ],
+      "var": "servicedInterestPCM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedInterestTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "furtherDrawdowns",
+    },
+    Object {
+      "value": Array [
+        "36,110.31",
+      ],
+      "var": "totalFacility",
+    },
+    Object {
+      "value": Array [
+        "73,000.01",
+      ],
+      "var": "totalFacilityIncludingInterest",
+    },
+    Object {
+      "value": Array [
+        "£73,000.01",
+      ],
+      "var": "grossFacilityAmountDayOne",
+    },
+    Object {
+      "value": Array [
+        "£73,000.01",
+      ],
+      "var": "grossLoanFirstAdvance",
+    },
+    Object {
+      "value": Array [
+        "36,889.7",
+      ],
+      "var": "advancedInterest",
+    },
+    Object {
+      "value": Array [
+        "£36,889.70",
+      ],
+      "var": "retainedInterest",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeLender",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "existingNotices",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "arrangementFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£5,000.00",
+      ],
+      "var": "arrangementFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeePercent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "£2,000.00",
+      ],
+      "var": "exitFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "NaN",
+      ],
+      "var": "arrangementFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£5,000.00",
+      ],
+      "var": "arrangementFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "arrangementFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "arrangementFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£2,000.00",
+      ],
+      "var": "exitFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "£5,000.00",
+      ],
+      "var": "arrangementFee",
+    },
+    Object {
+      "value": Array [
+        "£650.00",
+      ],
+      "var": "otherFees",
+    },
+    Object {
+      "value": Array [
+        "£250.00",
+      ],
+      "var": "insuranceIndemnityFee",
+    },
+    Object {
+      "value": Array [
+        "£400.00",
+      ],
+      "var": "completionAdministrationFee",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerProfile",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingDate",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingAttendees",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingNotes",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "underwriterRationale",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "ongoingMonitoring",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "specialConditions",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "exitStrategy",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "descriptionOfWorks",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_Description",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_analysisOfProperty",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "executiveSummary",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "writeUpDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "underwriter",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeRationale",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccDeclined",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccApproved",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeMeetingDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTime",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPercentFunded",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPerSqFt",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStart",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCompletionDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStrategy",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildContractor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildPM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildArchitects",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStructuralEngineer",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOtherSubcontractors",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOmniExperience",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildQSPMSSummary",
+    },
+    Object {
+      "value": Array [
+        1,
+        2,
+        3,
+        4,
+        5,
+      ],
+      "var": "annexNumber",
+    },
+    Object {
+      "target": "footer",
+      "value": Array [
+        "18 November 2016",
+      ],
+      "var": "generationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "extendedDueDateLabel",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateStart",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateEnd",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateInterestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "monthlyInterestRateRow",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "completionDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "redemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "01/01/2021",
+      ],
+      "var": "initialDate",
+    },
+    Object {
+      "value": Array [
+        "18/11/2016",
+      ],
+      "var": "currentDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "statementDate",
+    },
+    Object {
+      "value": Array [
+        "02/01/2021",
+      ],
+      "var": "afterRedemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "detailsOfInitialLoanGrantedAdvanceInterest",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDate",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDescription",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDebits",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionCredits",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "additionalTransactionRow",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalDebits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalCredits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactions",
+    },
+    Object {
+      "value": Array [
+        "£35.00",
+      ],
+      "var": "bankCharge",
+    },
+    Object {
+      "value": Array [
+        "£75,035.01",
+      ],
+      "var": "totalAmountDueOnRedemption",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "agreementDate",
+    },
+    Object {
+      "value": Array [
+        ":",
+      ],
+      "var": "conditioncount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextOne",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextTwo",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyOnlyTextAndDebenture",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "developmentOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "debug forename surname",
+      ],
+      "var": "a_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "a_Address",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualBorrowerOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "applicantsPara",
+    },
+    Object {
+      "value": Array [
+        "Single",
+      ],
+      "var": "singleMultipleText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "singleOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notservicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notretainedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notrolled_upRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartServiceRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartRolledRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRolledPartServicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildingInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "publicLiabilityInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "contractorsAllRiskOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Capital Raising",
+      ],
+      "var": "loanPurposeText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeLenderNameText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeLenderCurrentMortgageText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "chargeNameText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonThirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "thirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "legalChargePara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorsPara",
+    },
+    Object {
+      "value": Array [
+        "A guarantee in a form specified by the Lender, executed or to be executed, by the Guarantor",
+      ],
+      "var": "guaranteesText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "opflSignatoryName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyWitnessPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTableApplicantsRow",
+    },
+  ],
+}
+`;
+
+exports[`Prepare Data for case summary should return matching output for retained servicing 1`] = `
+Object {
+  "cloneList": Array [
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{CIRow}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "additionalTransactionRow",
+        "repeat": 20,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyWitnessPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyTableApplicantsRow}}",
+        "repeat": NaN,
+      },
+    },
+  ],
+  "removeList": Array [
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{rolled_upOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{rolled_upOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{servicedOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{servicedOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{nitrateNeutralityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{aonbOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{listedBuildingOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{floodzoneOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sangOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{greenbeltOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sssiOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{esw1OnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "propertyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{riskRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{companyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "purchasePrice",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "titleInsuranceRowOnly",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "furtherDrawdownRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "exitFeeOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "needle": "DRAFT",
+        "target": "header",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{developmentOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{multipleAdvanceOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{companyOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyTransactionDocumentsOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "servicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "notretainedRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "rolled_upOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartServiceOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartRolledOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRolledPartServicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "collateralWarrantyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{buildingInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{publicLiabilityInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{contractorsAllRiskOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{isDateOutstandingOpflOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyLendersSecurityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{priorChargeOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{thirdPartyLegalChargeOnly}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{guarantorOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "brokerOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "specialConditionsOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{corporateOnlyWitnessPara}}",
+      },
+    },
+  ],
+  "replaceVars": Array [
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "s_Address",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_titleNumber",
+    },
+    Object {
+      "value": Array [
+        "N",
+      ],
+      "var": "s_thirdPartyLegalCharge",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "s_thirdPartyLegalChargeDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchasePrice",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchaseDate",
+    },
+    Object {
+      "value": Array [
+        "1.55%",
+      ],
+      "var": "s_grossLTV",
+    },
+    Object {
+      "value": Array [
+        "£10,000,000.00",
+      ],
+      "var": "s_openMarketValue",
+    },
+    Object {
+      "value": Array [
+        "1.55%",
+      ],
+      "var": "s_openMarketGLTV",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_90DayValue",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_90DayGLTV",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_GDV",
+    },
+    Object {
+      "value": Array [
+        "0.00%",
+      ],
+      "var": "s_LTGDV",
+    },
+    Object {
+      "value": Array [
+        "Multi-unit",
+      ],
+      "var": "s_singleMultiUnit",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_areaPrice",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_totalArea",
+    },
+    Object {
+      "value": Array [
+        "-",
+      ],
+      "var": "s_marketRent",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuerIndividual",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuerFirm",
+    },
+    Object {
+      "value": Array [
+        "
+",
+      ],
+      "var": "s_valuer",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuationDate",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_planningReference",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_planningExpiryDate",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_planningLinks",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstNitrateNeutrality",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstAONB",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstListed",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstFloodZone",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSANG",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstGreenBelt",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSSSI",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstESW1",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_sstComment",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nitrateNeutralityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aonbOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "listedBuildingOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "floodzoneOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sangOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "greenbeltOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sssiOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "esw1OnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityRow",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalAssets",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalLiabilities",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Address",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Lender",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Value",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Debt",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_MortgagePayment",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Rent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "propertyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "assetRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liabilityRow",
+    },
+    Object {
+      "value": Array [],
+      "var": "risk",
+    },
+    Object {
+      "value": Array [],
+      "var": "riskMitigation",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "riskRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyNumber",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyIncorporationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Shareholding",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Role",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Guarantor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CIRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerCompanyName",
+    },
+    Object {
+      "value": Array [
+        "retained servicing",
+      ],
+      "var": "borrowerNameCombined",
+    },
+    Object {
+      "value": Array [
+        "10095-SERV",
+      ],
+      "var": "caseReference",
+    },
+    Object {
+      "value": Array [
+        "Commercial",
+      ],
+      "var": "loanType",
+    },
+    Object {
+      "value": Array [
+        "Commercial",
+      ],
+      "var": "propertyType",
+    },
+    Object {
+      "value": Array [
+        "Retained",
+      ],
+      "var": "interestType",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicingMethodRationale",
+    },
+    Object {
+      "value": Array [
+        "1st (Standard Security)",
+      ],
+      "var": "chargePriority",
+    },
+    Object {
+      "value": Array [
+        "18",
+      ],
+      "var": "loanTerm",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTerm",
+    },
+    Object {
+      "value": Array [
+        "1.10%",
+      ],
+      "var": "interestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "expectedExit",
+    },
+    Object {
+      "value": Array [
+        "16.90%",
+      ],
+      "var": "expectedIRR",
+    },
+    Object {
+      "value": Array [
+        "£122,000.00",
+      ],
+      "var": "initialNetLoan",
+    },
+    Object {
+      "value": Array [
+        "£30,612.50",
+      ],
+      "var": "totalInterest",
+    },
+    Object {
+      "value": Array [
+        "£154,608.59",
+      ],
+      "var": "totalLoanFacility",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "furtherDrawdownTotal",
+    },
+    Object {
+      "value": Array [
+        "£30,612.50",
+      ],
+      "var": "servicedInterestPCM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedInterestTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "furtherDrawdowns",
+    },
+    Object {
+      "value": Array [
+        "123,996.09",
+      ],
+      "var": "totalFacility",
+    },
+    Object {
+      "value": Array [
+        "154,608.59",
+      ],
+      "var": "totalFacilityIncludingInterest",
+    },
+    Object {
+      "value": Array [
+        "£154,608.59",
+      ],
+      "var": "grossFacilityAmountDayOne",
+    },
+    Object {
+      "value": Array [
+        "£154,608.59",
+      ],
+      "var": "grossLoanFirstAdvance",
+    },
+    Object {
+      "value": Array [
+        "30,612.5",
+      ],
+      "var": "advancedInterest",
+    },
+    Object {
+      "value": Array [
+        "£30,612.50",
+      ],
+      "var": "retainedInterest",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeLender",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "existingNotices",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        1,
+      ],
+      "var": "arrangementFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£1,546.09",
+      ],
+      "var": "arrangementFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "arrangementFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£1,546.09",
+      ],
+      "var": "arrangementFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "arrangementFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "arrangementFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "£1,546.09",
+      ],
+      "var": "arrangementFee",
+    },
+    Object {
+      "value": Array [
+        "£450.00",
+      ],
+      "var": "otherFees",
+    },
+    Object {
+      "value": Array [
+        "£150.00",
+      ],
+      "var": "insuranceIndemnityFee",
+    },
+    Object {
+      "value": Array [
+        "£300.00",
+      ],
+      "var": "completionAdministrationFee",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerProfile",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingDate",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingAttendees",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingNotes",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "underwriterRationale",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "ongoingMonitoring",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "specialConditions",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "exitStrategy",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "descriptionOfWorks",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_Description",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_analysisOfProperty",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><h2>Borrower:</h2><br /><br /><h2>Loan Requirement:</h2><br /><br /><h2>Loan Purpose:</h2><br /><br /><h2>Loan Rationale:</h2><br /><br /><h2>Security:</h2><br /><br /><h2>Exit:</h2>",
+      ],
+      "var": "executiveSummary",
+    },
+    Object {
+      "value": Array [
+        "18/01/2021",
+      ],
+      "var": "writeUpDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "underwriter",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeRationale",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccDeclined",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccApproved",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeMeetingDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTime",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPercentFunded",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPerSqFt",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStart",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCompletionDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStrategy",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildContractor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildPM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildArchitects",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStructuralEngineer",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOtherSubcontractors",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOmniExperience",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildQSPMSSummary",
+    },
+    Object {
+      "value": Array [
+        1,
+        2,
+        3,
+        4,
+        5,
+      ],
+      "var": "annexNumber",
+    },
+    Object {
+      "target": "footer",
+      "value": Array [
+        "18 November 2016",
+      ],
+      "var": "generationDate",
+    },
+    Object {
+      "value": Array [
+        "Extended ",
+      ],
+      "var": "extendedDueDateLabel",
+    },
+    Object {
+      "value": Array [
+        "31/12/2019",
+      ],
+      "var": "monthlyInterestRateStart",
+    },
+    Object {
+      "value": Array [
+        "30/06/2021",
+      ],
+      "var": "monthlyInterestRateEnd",
+    },
+    Object {
+      "value": Array [
+        "1.10%",
+      ],
+      "var": "monthlyInterestRateInterestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "monthlyInterestRateRow",
+    },
+    Object {
+      "value": Array [
+        "31 December 2019",
+      ],
+      "var": "completionDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "redemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "31/12/2019",
+      ],
+      "var": "initialDate",
+    },
+    Object {
+      "value": Array [
+        "18/11/2016",
+      ],
+      "var": "currentDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "statementDate",
+    },
+    Object {
+      "value": Array [
+        "02/01/2021",
+      ],
+      "var": "afterRedemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "detailsOfInitialLoanGrantedAdvanceInterest",
+    },
+    Object {
+      "value": Array [
+        "31/01/2020 to 19/02/2020",
+        "20/02/2020",
+        "20/02/2020 to 28/02/2020",
+        "29/02/2020 to 24/03/2020",
+        "25/03/2020",
+        "25/03/2020 to 30/03/2020",
+        "31/03/2020 to 29/04/2020",
+        "30/04/2020 to 30/05/2020",
+        "31/05/2020 to 29/06/2020",
+        "30/06/2020 to 30/07/2020",
+        "31/07/2020 to 30/08/2020",
+        "31/08/2020 to 29/09/2020",
+        "30/09/2020 to 30/10/2020",
+        "31/10/2020 to 29/11/2020",
+        "30/11/2020 to 30/12/2020",
+        "31/12/2020 to 30/01/2021",
+        "31/01/2021 to 27/02/2021",
+        "28/02/2021 to 30/03/2021",
+        "31/03/2021 to 29/04/2021",
+        "30/04/2021 to 30/05/2021",
+        "31/05/2021 to 29/06/2021",
+      ],
+      "var": "additionalTransactionDate",
+    },
+    Object {
+      "value": Array [
+        " Interest",
+        "Early Redemption - Redemption",
+        " Interest",
+        " Interest",
+        "Legal Fees",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+        " Interest",
+      ],
+      "var": "additionalTransactionDescription",
+    },
+    Object {
+      "value": Array [
+        "£1,119.66",
+        "",
+        "£559.83",
+        "£1,399.57",
+        "£2,000.00",
+        "£284.32",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+        "£1,310.68",
+      ],
+      "var": "additionalTransactionDebits",
+    },
+    Object {
+      "value": Array [
+        "",
+        "£30,000.00",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+      ],
+      "var": "additionalTransactionCredits",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "additionalTransactionRow",
+    },
+    Object {
+      "value": Array [
+        "£25,023.65",
+      ],
+      "var": "additionalTransactionTotalDebits",
+    },
+    Object {
+      "value": Array [
+        "£30,000.00",
+      ],
+      "var": "additionalTransactionTotalCredits",
+    },
+    Object {
+      "value": Array [
+        "-£4,976.35",
+      ],
+      "var": "additionalTransactions",
+    },
+    Object {
+      "value": Array [
+        "£35.00",
+      ],
+      "var": "bankCharge",
+    },
+    Object {
+      "value": Array [
+        "£149,667.24",
+      ],
+      "var": "totalAmountDueOnRedemption",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "agreementDate",
+    },
+    Object {
+      "value": Array [
+        ":",
+      ],
+      "var": "conditioncount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextOne",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextTwo",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyOnlyTextAndDebenture",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "developmentOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "retained servicing",
+      ],
+      "var": "a_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "a_Address",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualBorrowerOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "applicantsPara",
+    },
+    Object {
+      "value": Array [
+        "Single",
+      ],
+      "var": "singleMultipleText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "singleOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notservicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notretainedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notrolled_upRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartServiceRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartRolledRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRolledPartServicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildingInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "publicLiabilityInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "contractorsAllRiskOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Refinance of the property at Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "loanPurposeText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "first",
+      ],
+      "var": "chargeNameText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonThirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "thirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "legalChargePara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorsPara",
+    },
+    Object {
+      "value": Array [
+        "A guarantee in a form specified by the Lender, executed or to be executed, by the Guarantor",
+      ],
+      "var": "guaranteesText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "opflSignatoryName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyWitnessPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTableApplicantsRow",
+    },
+  ],
+}
+`;
+
+exports[`Prepare Data for case summary should return matching output for rolled up case 1`] = `
+Object {
+  "cloneList": Array [
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{securityTable}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{securityRow}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{assetRow}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{liabilityRow}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{riskRow}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{CIRow}}",
+        "repeat": 0,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{securityOnlyPara}}",
+        "repeat": 1,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{guarantorsPara}}",
+        "repeat": 6,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyWitnessPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyTableApplicantsRow}}",
+        "repeat": NaN,
+      },
+    },
+  ],
+  "removeList": Array [
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{retainedOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{retainedOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{servicedOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{servicedOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{floodzoneOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{esw1OnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "titleInsuranceRowOnly",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "detailsOfInitialLoanGrantedAdvanceInterest",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "additionalTransactionRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "needle": "DRAFT",
+        "target": "header",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualBorrowerOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{individualTransactionDocumentsOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "retainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "servicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "retainedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "notrolled_upRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartServiceOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartRolledOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRolledPartServicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "collateralWarrantyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{buildingInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{publicLiabilityInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{contractorsAllRiskOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{isDateOutstandingOpflOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{individualLendersSecurityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{thirdPartyLegalChargeOnly}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "servicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "retainedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{corporateOnlyWitnessPara}}",
+      },
+    },
+  ],
+  "replaceVars": Array [
+    Object {
+      "value": Array [
+        "1 - Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ
+2 - East Anglias Childrens Hospices, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "s_Address",
+    },
+    Object {
+      "value": Array [
+        "1 - foo, bar
+2 - baz",
+      ],
+      "var": "s_titleNumber",
+    },
+    Object {
+      "value": Array [
+        "1 - N
+2 - Y",
+      ],
+      "var": "s_thirdPartyLegalCharge",
+    },
+    Object {
+      "value": Array [
+        "1 - n/a
+2 - Owned by Mr Firstname asd surname",
+      ],
+      "var": "s_thirdPartyLegalChargeDescription",
+    },
+    Object {
+      "value": Array [
+        "1 - £500,000.00
+2 - 
+Total: £500,000.00",
+      ],
+      "var": "s_purchasePrice",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchaseDate",
+    },
+    Object {
+      "value": Array [
+        "60.29%",
+      ],
+      "var": "s_grossLTV",
+    },
+    Object {
+      "value": Array [
+        "1 - £500,000.00
+2 - £100,000.00
+Total: £600,000.00",
+      ],
+      "var": "s_openMarketValue",
+    },
+    Object {
+      "value": Array [
+        "60.29%",
+      ],
+      "var": "s_openMarketGLTV",
+    },
+    Object {
+      "value": Array [
+        "1 - £700,000.00
+2 - £200,000.00
+Total: £900,000.00",
+      ],
+      "var": "s_90DayValue",
+    },
+    Object {
+      "value": Array [
+        "40.19%",
+      ],
+      "var": "s_90DayGLTV",
+    },
+    Object {
+      "value": Array [
+        "1 - £700,000.00
+2 - £200,000.00
+Total: £900,000.00",
+      ],
+      "var": "s_GDV",
+    },
+    Object {
+      "value": Array [
+        "65.00%",
+      ],
+      "var": "s_LTGDV",
+    },
+    Object {
+      "value": Array [
+        "1 - Multi-unit
+2 - Single-unit",
+      ],
+      "var": "s_singleMultiUnit",
+    },
+    Object {
+      "value": Array [
+        "1 - £4,000.00 /sq. ft
+2 - £4,000.00 /sq. ft",
+      ],
+      "var": "s_areaPrice",
+    },
+    Object {
+      "value": Array [
+        "1 - 123 sq. ft
+2 - 43 sq. ft",
+      ],
+      "var": "s_totalArea",
+    },
+    Object {
+      "value": Array [
+        "1 - £4,313.00
+2 - £4,313.00",
+      ],
+      "var": "s_marketRent",
+    },
+    Object {
+      "value": Array [
+        "1 - fsdsfs
+2 - fsdsfs",
+      ],
+      "var": "s_valuerIndividual",
+    },
+    Object {
+      "value": Array [
+        "1 - adas
+2 - adas",
+      ],
+      "var": "s_valuerFirm",
+    },
+    Object {
+      "value": Array [
+        "1 - fsdsfs
+adas
+2 - fsdsfs
+adas",
+      ],
+      "var": "s_valuer",
+    },
+    Object {
+      "value": Array [
+        "1 - 10/11/2020
+2 - 03/11/2020",
+      ],
+      "var": "s_valuationDate",
+    },
+    Object {
+      "value": Array [
+        "1 - fdsds
+2 - 5423 fsssg",
+      ],
+      "var": "s_planningReference",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_planningExpiryDate",
+    },
+    Object {
+      "value": Array [
+        "1 - 42342
+2 - 42342",
+      ],
+      "var": "s_planningLinks",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstNitrateNeutrality",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstAONB",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstListed",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstFloodZone",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstSANG",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstGreenBelt",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "s_sstSSSI",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstESW1",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_sstComment",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nitrateNeutralityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aonbOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "listedBuildingOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "floodzoneOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sangOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "greenbeltOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sssiOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "esw1OnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ
+East Anglias Childrens Hospices, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityRow",
+    },
+    Object {
+      "value": Array [
+        "456 (the UBOs share of the values advised below)",
+      ],
+      "var": "totalAssets",
+    },
+    Object {
+      "value": Array [
+        "135 (the UBOs share of the values advised below)",
+      ],
+      "var": "totalLiabilities",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "ap_Address",
+    },
+    Object {
+      "value": Array [
+        "a",
+      ],
+      "var": "ap_Lender",
+    },
+    Object {
+      "value": Array [
+        "£123.00",
+      ],
+      "var": "ap_Value",
+    },
+    Object {
+      "value": Array [
+        "£42.00",
+      ],
+      "var": "ap_Debt",
+    },
+    Object {
+      "value": Array [
+        "£53,432.00",
+      ],
+      "var": "ap_MortgagePayment",
+    },
+    Object {
+      "value": Array [
+        "£34,213.00",
+      ],
+      "var": "ap_Rent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "propertyRow",
+    },
+    Object {
+      "value": Array [
+        "vehicle 234",
+        "Maintenance 32",
+      ],
+      "var": "asset_Name",
+    },
+    Object {
+      "value": Array [
+        "100",
+        "233",
+      ],
+      "var": "asset_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "assetRow",
+    },
+    Object {
+      "value": Array [
+        "vehicle 234",
+        "Maintenance 32",
+      ],
+      "var": "liability_Name",
+    },
+    Object {
+      "value": Array [
+        "50",
+        "43",
+      ],
+      "var": "liability_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liabilityRow",
+    },
+    Object {
+      "value": Array [
+        "asfas",
+        "trsd",
+      ],
+      "var": "risk",
+    },
+    Object {
+      "value": Array [
+        "fsa",
+        "vvfdsf",
+      ],
+      "var": "riskMitigation",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "riskRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyTable",
+    },
+    Object {
+      "value": Array [
+        "UCREATE LIMITED",
+      ],
+      "var": "companyName",
+    },
+    Object {
+      "value": Array [
+        "08503849",
+      ],
+      "var": "companyNumber",
+    },
+    Object {
+      "value": Array [
+        "67, Upper Tooting Road, London, SW17 7TN",
+      ],
+      "var": "companyAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyIncorporationDate",
+    },
+    Object {
+      "value": Array [
+        "foo",
+      ],
+      "var": "CI_Name",
+    },
+    Object {
+      "value": Array [
+        "50.00",
+      ],
+      "var": "CI_Shareholding",
+    },
+    Object {
+      "value": Array [
+        "Shareholder",
+      ],
+      "var": "CI_Role",
+    },
+    Object {
+      "value": Array [
+        "Yes",
+      ],
+      "var": "CI_Guarantor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CIRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerRow",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "brokerCompanyName",
+    },
+    Object {
+      "value": Array [
+        "UCREATE LIMITED",
+      ],
+      "var": "borrowerNameCombined",
+    },
+    Object {
+      "value": Array [
+        "10064-UCRE",
+      ],
+      "var": "caseReference",
+    },
+    Object {
+      "value": Array [
+        "Land",
+      ],
+      "var": "loanType",
+    },
+    Object {
+      "value": Array [
+        "Land",
+      ],
+      "var": "propertyType",
+    },
+    Object {
+      "value": Array [
+        "Rolled up",
+      ],
+      "var": "interestType",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicingMethodRationale",
+    },
+    Object {
+      "value": Array [
+        "2nd",
+      ],
+      "var": "chargePriority",
+    },
+    Object {
+      "value": Array [
+        "10",
+      ],
+      "var": "loanTerm",
+    },
+    Object {
+      "value": Array [
+        6,
+      ],
+      "var": "buildTerm",
+    },
+    Object {
+      "value": Array [
+        "1.00%",
+      ],
+      "var": "interestRate",
+    },
+    Object {
+      "value": Array [
+        "Refinance hjdkas",
+      ],
+      "var": "expectedExit",
+    },
+    Object {
+      "value": Array [
+        "14.69%",
+      ],
+      "var": "expectedIRR",
+    },
+    Object {
+      "value": Array [
+        "£232,938.69",
+      ],
+      "var": "initialNetLoan",
+    },
+    Object {
+      "value": Array [
+        "£500,000.00",
+      ],
+      "var": "purchasePrice",
+    },
+    Object {
+      "value": Array [
+        "£38,739.54",
+      ],
+      "var": "totalInterest",
+    },
+    Object {
+      "value": Array [
+        "£442,260.46",
+      ],
+      "var": "totalLoanFacility",
+    },
+    Object {
+      "value": Array [
+        "£200,000.00",
+      ],
+      "var": "furtherDrawdownTotal",
+    },
+    Object {
+      "value": Array [
+        "£17,475.54",
+      ],
+      "var": "servicedInterestPCM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedInterestTotal",
+    },
+    Object {
+      "value": Array [
+        "200,000",
+      ],
+      "var": "furtherDrawdowns",
+    },
+    Object {
+      "value": Array [
+        "442,260.46",
+      ],
+      "var": "totalFacility",
+    },
+    Object {
+      "value": Array [
+        "481,000",
+      ],
+      "var": "totalFacilityIncludingInterest",
+    },
+    Object {
+      "value": Array [
+        "£242,260.46",
+      ],
+      "var": "grossFacilityAmountDayOne",
+    },
+    Object {
+      "value": Array [
+        "£242,260.46",
+      ],
+      "var": "grossLoanFirstAdvance",
+    },
+    Object {
+      "value": Array [
+        "17,475.54",
+      ],
+      "var": "advancedInterest",
+    },
+    Object {
+      "value": Array [
+        "£17,475.54",
+      ],
+      "var": "retainedInterest",
+    },
+    Object {
+      "value": Array [
+        "200,000",
+        "50,000",
+      ],
+      "var": "firstChargeAmount",
+    },
+    Object {
+      "value": Array [
+        "adfadfasd",
+        "",
+      ],
+      "var": "firstChargeLender",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "existingNotices",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        2,
+      ],
+      "var": "arrangementFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£8,671.77",
+      ],
+      "var": "arrangementFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeePercent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "£2,000.00",
+      ],
+      "var": "exitFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "arrangementFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£4,335.88",
+      ],
+      "var": "arrangementFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "arrangementFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£4,335.89",
+      ],
+      "var": "arrangementFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£1,000.00",
+      ],
+      "var": "exitFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£1,000.00",
+      ],
+      "var": "exitFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "£8,671.77",
+      ],
+      "var": "arrangementFee",
+    },
+    Object {
+      "value": Array [
+        "£650.00",
+      ],
+      "var": "otherFees",
+    },
+    Object {
+      "value": Array [
+        "£250.00",
+      ],
+      "var": "insuranceIndemnityFee",
+    },
+    Object {
+      "value": Array [
+        "£400.00",
+      ],
+      "var": "completionAdministrationFee",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>Borrower Profile</p>",
+      ],
+      "var": "borrowerProfile",
+    },
+    Object {
+      "value": Array [
+        "02/01/2021",
+      ],
+      "var": "clientMeetingDate",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><ul><li>Attendee 1</li><li>Attendee 2</li></ul>",
+      ],
+      "var": "clientMeetingAttendees",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>Some notes</p>",
+      ],
+      "var": "clientMeetingNotes",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>fdasda</p>",
+      ],
+      "var": "underwriterRationale",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>fdsad</p>",
+      ],
+      "var": "ongoingMonitoring",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>sdfas</p>",
+      ],
+      "var": "specialConditions",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>ada</p>",
+      ],
+      "var": "exitStrategy",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>fdssad</p><p>dfas</p><p>fasdfa</p>",
+      ],
+      "var": "descriptionOfWorks",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>freses</p><p>asdafs</p><p>fdasd</p>",
+      ],
+      "var": "s_Description",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>fasfsadfsdfsfsfsdfas</p>",
+      ],
+      "var": "s_analysisOfProperty",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Light; font-size: 9pt}ol {font-family: Gill Sans MT Std Light; font-size: 9pt}ul {font-family: Gill Sans MT Std Light; font-size: 9pt}h1 {font-family: Gill Sans MT Std Light; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Light; font-size: 9pt; font-weight: bold; color: black}</style><p>summary 123</p><p><strong>Bolded text</strong></p><p><br></p><p><span style=\\"color: rgb(230, 0, 0);\\">Highlighted text</span></p>",
+      ],
+      "var": "executiveSummary",
+    },
+    Object {
+      "value": Array [
+        "17/11/2020",
+      ],
+      "var": "writeUpDate",
+    },
+    Object {
+      "value": Array [
+        "foo",
+      ],
+      "var": "underwriter",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeRationale",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccDeclined",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccApproved",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeMeetingDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDate",
+    },
+    Object {
+      "value": Array [
+        4,
+      ],
+      "var": "buildTime",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPercentFunded",
+    },
+    Object {
+      "value": Array [
+        "3,243,243",
+      ],
+      "var": "buildCostTotal",
+    },
+    Object {
+      "value": Array [
+        "222,212.12",
+      ],
+      "var": "buildCostPerSqFt",
+    },
+    Object {
+      "value": Array [
+        "11/11/2020",
+      ],
+      "var": "buildStart",
+    },
+    Object {
+      "value": Array [
+        "11/03/2021",
+      ],
+      "var": "buildCompletionDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStrategy",
+    },
+    Object {
+      "value": Array [
+        "fsad",
+      ],
+      "var": "buildContractor",
+    },
+    Object {
+      "value": Array [
+        "fdad",
+      ],
+      "var": "buildPM",
+    },
+    Object {
+      "value": Array [
+        "fdeefafda",
+      ],
+      "var": "buildArchitects",
+    },
+    Object {
+      "value": Array [
+        "fsdfds",
+      ],
+      "var": "buildStructuralEngineer",
+    },
+    Object {
+      "value": Array [
+        "ffsfs",
+      ],
+      "var": "buildOtherSubcontractors",
+    },
+    Object {
+      "value": Array [
+        "gfsfss",
+      ],
+      "var": "buildOmniExperience",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildQSPMSSummary",
+    },
+    Object {
+      "value": Array [
+        1,
+        2,
+        3,
+        4,
+        5,
+      ],
+      "var": "annexNumber",
+    },
+    Object {
+      "target": "footer",
+      "value": Array [
+        "18 November 2016",
+      ],
+      "var": "generationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "extendedDueDateLabel",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateStart",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateEnd",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateInterestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "monthlyInterestRateRow",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "completionDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "redemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "01/01/2021",
+      ],
+      "var": "initialDate",
+    },
+    Object {
+      "value": Array [
+        "18/11/2016",
+      ],
+      "var": "currentDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "statementDate",
+    },
+    Object {
+      "value": Array [
+        "02/01/2021",
+      ],
+      "var": "afterRedemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "detailsOfInitialLoanGrantedAdvanceInterest",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDate",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDescription",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDebits",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionCredits",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "additionalTransactionRow",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalDebits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalCredits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactions",
+    },
+    Object {
+      "value": Array [
+        "£35.00",
+      ],
+      "var": "bankCharge",
+    },
+    Object {
+      "value": Array [
+        "£244,295.46",
+      ],
+      "var": "totalAmountDueOnRedemption",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "agreementDate",
+    },
+    Object {
+      "value": Array [
+        ". It is divided into three parts:",
+      ],
+      "var": "conditioncount",
+    },
+    Object {
+      "value": Array [
+        "and the Debenture",
+      ],
+      "var": "aboutCompanyTextOne",
+    },
+    Object {
+      "value": Array [
+        "Where a guarantor is required then the form of guarantee will be sent to the guarantor or his/her solicitors.",
+      ],
+      "var": "aboutCompanyTextTwo",
+    },
+    Object {
+      "value": Array [
+        " and Debenture",
+      ],
+      "var": "companyOnlyTextAndDebenture",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "developmentOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "UCREATE LIMITED",
+      ],
+      "var": "companyName",
+    },
+    Object {
+      "value": Array [
+        "08503849",
+      ],
+      "var": "companyNo",
+    },
+    Object {
+      "value": Array [
+        "67, Upper Tooting Road, London, SW17 7TN",
+      ],
+      "var": "companyAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualBorrowerOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "applicantsPara",
+    },
+    Object {
+      "value": Array [
+        "Multiple",
+      ],
+      "var": "singleMultipleText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "singleOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notservicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notretainedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notrolled_upRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartServiceRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartRolledRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRolledPartServicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildingInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "publicLiabilityInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "contractorsAllRiskOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Purchase and Development of the property at Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "loanPurposeText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "adfadfasd",
+      ],
+      "var": "priorChargeLenderNameText",
+    },
+    Object {
+      "value": Array [
+        "£200,000.00",
+      ],
+      "var": "priorChargeLenderCurrentMortgageText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+        "East Anglias Childrens Hospices, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "second",
+      ],
+      "var": "chargeNameText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonThirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "thirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "legalChargePara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorsPara",
+    },
+    Object {
+      "value": Array [
+        "Mr foo marie foo",
+        "Daniel Christey",
+        "Peter James Goodman",
+        "Matthew Jonns",
+        "Pawel Kaminski",
+        "Simon Rendell",
+        "James Steven Shirley",
+      ],
+      "var": "g_Name",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+      ],
+      "var": "g_Address",
+    },
+    Object {
+      "value": Array [
+        "Guarantees in a form specified by the Lender, executed or to be executed, by the Guarantors",
+      ],
+      "var": "guaranteesText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "broker",
+    },
+    Object {
+      "value": Array [
+        "Brasteds Lodge, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "brokerAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerFeeOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "£4,335.89",
+      ],
+      "var": "brokerFee",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerExitFeeOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "£1,000.00",
+      ],
+      "var": "brokerExitFee",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyListItem",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "<style>p {font-family: Gill Sans MT Std Regular; font-size: 11pt}ol {font-family: Gill Sans MT Std Regular; font-size: 11pt}ul {font-family: Gill Sans MT Std Regular; font-size: 11pt}h1 {font-family: Gill Sans MT Std Regular; font-size: 11pt; font-weight: bold; color: black}h2 {font-family: Gill Sans MT Std Regular; font-size: 11pt; font-weight: bold; color: black}</style><p>sdfas</p>",
+      ],
+      "var": "specialConditionsText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "specialConditionsOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "overseasCompanyOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "opflSignatoryName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyWitnessPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTableApplicantsRow",
+    },
+  ],
+}
+`;
+
+exports[`Prepare Data for case summary should return matching output for serviced case 1`] = `
+Object {
+  "cloneList": Array [
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{CIRow}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyWitnessPara}}",
+        "repeat": NaN,
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{individualOnlyTableApplicantsRow}}",
+        "repeat": NaN,
+      },
+    },
+  ],
+  "removeList": Array [
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{rolled_upOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{rolled_upOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{retainedOnlyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{retainedOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{nitrateNeutralityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{aonbOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{listedBuildingOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{floodzoneOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sangOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{greenbeltOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{sssiOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{esw1OnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "propertyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{riskRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table",
+        "needle": "{{companyTable}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "purchasePrice",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "titleInsuranceRowOnly",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "furtherDrawdownRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "exitFeeOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "detailsOfInitialLoanGrantedAdvanceInterest",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "additionalTransactionRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "needle": "DRAFT",
+        "target": "header",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{developmentOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyListItem}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleAdvanceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{multipleAdvanceOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{companyOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyTransactionDocumentsOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "retainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{multipleOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "notservicedRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "retainedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "rolled_upOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartServiceOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRetainedPartRolledOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "partRolledPartServicedOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "hybridStartRetainedOnlyPara",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "collateralWarrantyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{buildingInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{publicLiabilityInsuranceOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{contractorsAllRiskOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{isDateOutstandingOpflOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{companyLendersSecurityOnlyPara}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{priorChargeOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "{{thirdPartyLegalChargeOnly}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{guarantorOnlyRow}}",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "brokerOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "brokerOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "retainedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "rolled_upOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartServiceOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRetainedPartRolledOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "partRolledPartServicedOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "specialConditionsOnlyRow",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "paragraph",
+        "needle": "overseasCompanyOnlyListItem",
+      },
+    },
+    Object {
+      "options": Object {
+        "element": "table-row",
+        "needle": "{{corporateOnlyWitnessPara}}",
+      },
+    },
+  ],
+  "replaceVars": Array [
+    Object {
+      "value": Array [
+        "B 2 B Cashflow Solutions Ltd, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "s_Address",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_titleNumber",
+    },
+    Object {
+      "value": Array [
+        "N",
+      ],
+      "var": "s_thirdPartyLegalCharge",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "s_thirdPartyLegalChargeDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchasePrice",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_purchaseDate",
+    },
+    Object {
+      "value": Array [
+        "44.93%",
+      ],
+      "var": "s_grossLTV",
+    },
+    Object {
+      "value": Array [
+        "£500,000.00",
+      ],
+      "var": "s_openMarketValue",
+    },
+    Object {
+      "value": Array [
+        "44.93%",
+      ],
+      "var": "s_openMarketGLTV",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_90DayValue",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_90DayGLTV",
+    },
+    Object {
+      "value": Array [
+        "£700,000.00",
+      ],
+      "var": "s_GDV",
+    },
+    Object {
+      "value": Array [
+        "65.00%",
+      ],
+      "var": "s_LTGDV",
+    },
+    Object {
+      "value": Array [
+        "Multi-unit",
+      ],
+      "var": "s_singleMultiUnit",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_areaPrice",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_totalArea",
+    },
+    Object {
+      "value": Array [
+        "-",
+      ],
+      "var": "s_marketRent",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuerIndividual",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuerFirm",
+    },
+    Object {
+      "value": Array [
+        "
+",
+      ],
+      "var": "s_valuer",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_valuationDate",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_planningReference",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_planningExpiryDate",
+    },
+    Object {
+      "value": Array [
+        undefined,
+      ],
+      "var": "s_planningLinks",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstNitrateNeutrality",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstAONB",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstListed",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstFloodZone",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSANG",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstGreenBelt",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstSSSI",
+    },
+    Object {
+      "value": Array [
+        "No",
+      ],
+      "var": "s_sstESW1",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "s_sstComment",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nitrateNeutralityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aonbOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "listedBuildingOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "floodzoneOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sangOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "greenbeltOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "sssiOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "esw1OnlyPara",
+    },
+    Object {
+      "value": Array [
+        "B 2 B Cashflow Solutions Ltd, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityRow",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalAssets",
+    },
+    Object {
+      "value": Array [
+        "0",
+      ],
+      "var": "totalLiabilities",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Address",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Lender",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Value",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Debt",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_MortgagePayment",
+    },
+    Object {
+      "value": Array [],
+      "var": "ap_Rent",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "propertyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "asset_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "assetRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liability_Value",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "liabilityRow",
+    },
+    Object {
+      "value": Array [],
+      "var": "risk",
+    },
+    Object {
+      "value": Array [],
+      "var": "riskMitigation",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "riskRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyNumber",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyIncorporationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Shareholding",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Role",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CI_Guarantor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "CIRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "brokerCompanyName",
+    },
+    Object {
+      "value": Array [
+        "Bartek Olma",
+      ],
+      "var": "borrowerNameCombined",
+    },
+    Object {
+      "value": Array [
+        "10063-OLMA",
+      ],
+      "var": "caseReference",
+    },
+    Object {
+      "value": Array [
+        "Commercial",
+      ],
+      "var": "loanType",
+    },
+    Object {
+      "value": Array [
+        "Commercial",
+      ],
+      "var": "propertyType",
+    },
+    Object {
+      "value": Array [
+        "Serviced",
+      ],
+      "var": "interestType",
+    },
+    Object {
+      "value": Array [
+        "<p>Rationale</p>",
+      ],
+      "var": "servicingMethodRationale",
+    },
+    Object {
+      "value": Array [
+        "1st (Standard Security)",
+      ],
+      "var": "chargePriority",
+    },
+    Object {
+      "value": Array [
+        "10",
+      ],
+      "var": "loanTerm",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTerm",
+    },
+    Object {
+      "value": Array [
+        "1.00%",
+      ],
+      "var": "interestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "expectedExit",
+    },
+    Object {
+      "value": Array [
+        "14.26%",
+      ],
+      "var": "expectedIRR",
+    },
+    Object {
+      "value": Array [
+        "£211,072.64",
+      ],
+      "var": "initialNetLoan",
+    },
+    Object {
+      "value": Array [
+        "£39,160.13",
+      ],
+      "var": "totalInterest",
+    },
+    Object {
+      "value": Array [
+        "£415,839.87",
+      ],
+      "var": "totalLoanFacility",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "furtherDrawdownTotal",
+    },
+    Object {
+      "value": Array [
+        "£8,763.96",
+      ],
+      "var": "servicedInterestPCM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedInterestTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "furtherDrawdowns",
+    },
+    Object {
+      "value": Array [
+        "415,839.87",
+      ],
+      "var": "totalFacility",
+    },
+    Object {
+      "value": Array [
+        "455,000",
+      ],
+      "var": "totalFacilityIncludingInterest",
+    },
+    Object {
+      "value": Array [
+        "£215,839.87",
+      ],
+      "var": "grossFacilityAmountDayOne",
+    },
+    Object {
+      "value": Array [
+        "£215,839.87",
+      ],
+      "var": "grossLoanFirstAdvance",
+    },
+    Object {
+      "value": Array [
+        "8,763.96",
+      ],
+      "var": "advancedInterest",
+    },
+    Object {
+      "value": Array [
+        "£8,763.96",
+      ],
+      "var": "retainedInterest",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "firstChargeLender",
+    },
+    Object {
+      "value": Array [
+        "n/a",
+      ],
+      "var": "existingNotices",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyTable",
+    },
+    Object {
+      "value": Array [
+        1,
+      ],
+      "var": "arrangementFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£4,117.23",
+      ],
+      "var": "arrangementFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeePercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeAmount",
+    },
+    Object {
+      "value": Array [
+        "1",
+      ],
+      "var": "arrangementFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£4,117.23",
+      ],
+      "var": "arrangementFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "arrangementFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "arrangementFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeOmniPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeOmniAmount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "exitFeeBrokerPercent",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "exitFeeBrokerAmount",
+    },
+    Object {
+      "value": Array [
+        "£4,117.23",
+      ],
+      "var": "arrangementFee",
+    },
+    Object {
+      "value": Array [
+        "£650.00",
+      ],
+      "var": "otherFees",
+    },
+    Object {
+      "value": Array [
+        "£250.00",
+      ],
+      "var": "insuranceIndemnityFee",
+    },
+    Object {
+      "value": Array [
+        "£400.00",
+      ],
+      "var": "completionAdministrationFee",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerProfile",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingDate",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingAttendees",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "clientMeetingNotes",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "underwriterRationale",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "ongoingMonitoring",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "specialConditions",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "exitStrategy",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "descriptionOfWorks",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_Description",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "s_analysisOfProperty",
+    },
+    Object {
+      "block-type": true,
+      "value": Array [
+        "",
+      ],
+      "var": "executiveSummary",
+    },
+    Object {
+      "value": Array [
+        "17/11/2020",
+      ],
+      "var": "writeUpDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "underwriter",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeRationale",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccDeclined",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "ccApproved",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "creditCommitteeMeetingDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDescription",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeSignatureDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "postCreditCommitteeUpdateDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildTime",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPercentFunded",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostTotal",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCostPerSqFt",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStart",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildCompletionDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStrategy",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildContractor",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildPM",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildArchitects",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildStructuralEngineer",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOtherSubcontractors",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildOmniExperience",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildQSPMSSummary",
+    },
+    Object {
+      "value": Array [
+        1,
+        2,
+        3,
+        4,
+        5,
+      ],
+      "var": "annexNumber",
+    },
+    Object {
+      "target": "footer",
+      "value": Array [
+        "18 November 2016",
+      ],
+      "var": "generationDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "extendedDueDateLabel",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateStart",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateEnd",
+    },
+    Object {
+      "value": Array [],
+      "var": "monthlyInterestRateInterestRate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "monthlyInterestRateRow",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "completionDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "redemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "01/01/2021",
+      ],
+      "var": "initialDate",
+    },
+    Object {
+      "value": Array [
+        "18/11/2016",
+      ],
+      "var": "currentDate",
+    },
+    Object {
+      "value": Array [
+        "1 January 2021",
+      ],
+      "var": "statementDate",
+    },
+    Object {
+      "value": Array [
+        "02/01/2021",
+      ],
+      "var": "afterRedemptionDueDate",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "detailsOfInitialLoanGrantedAdvanceInterest",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDate",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDescription",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionDebits",
+    },
+    Object {
+      "value": Array [],
+      "var": "additionalTransactionCredits",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "additionalTransactionRow",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalDebits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactionTotalCredits",
+    },
+    Object {
+      "value": Array [
+        "£0.00",
+      ],
+      "var": "additionalTransactions",
+    },
+    Object {
+      "value": Array [
+        "£35.00",
+      ],
+      "var": "bankCharge",
+    },
+    Object {
+      "value": Array [
+        "£215,874.87",
+      ],
+      "var": "totalAmountDueOnRedemption",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "agreementDate",
+    },
+    Object {
+      "value": Array [
+        ":",
+      ],
+      "var": "conditioncount",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextOne",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "aboutCompanyTextTwo",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyOnlyTextAndDebenture",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "developmentOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "multipleAdvanceOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "Bartek Olma",
+      ],
+      "var": "a_Name",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "a_Address",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualTransactionDocumentsOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualBorrowerOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTable",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "applicantsPara",
+    },
+    Object {
+      "value": Array [
+        "Single",
+      ],
+      "var": "singleMultipleText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "singleOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notservicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notretainedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notrolled_upRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartServiceOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartServiceRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRetainedPartRolledOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRetainedPartRolledRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "partRolledPartServicedOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "notpartRolledPartServicedRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonHybridOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "collateralWarrantyOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "buildingInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "publicLiabilityInsuranceOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "contractorsAllRiskOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "Capital Raising",
+      ],
+      "var": "loanPurposeText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "companyLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualLendersSecurityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "priorChargeOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "B 2 B Cashflow Solutions Ltd, Manor Farm Barns, Fox Road, Framingham Pigot, Norwich, NR14 7PZ",
+      ],
+      "var": "securityAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "securityOnlyPara",
+    },
+    Object {
+      "value": Array [
+        "first",
+      ],
+      "var": "chargeNameText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "nonThirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "thirdPartyLegalChargeOnly",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "legalChargePara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorOnlyRow",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "guarantorsPara",
+    },
+    Object {
+      "value": Array [
+        "A guarantee in a form specified by the Lender, executed or to be executed, by the Guarantor",
+      ],
+      "var": "guaranteesText",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "solicitorAddress",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "servicedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "rolled_upOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "retainedOnlyListItem",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "opflSignatoryName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "borrowerName",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyWitnessPara",
+    },
+    Object {
+      "value": Array [
+        "",
+      ],
+      "var": "individualOnlyTableApplicantsRow",
+    },
+  ],
+}
+`;

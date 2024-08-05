@@ -1,0 +1,14 @@
+export const transparentDark = "rgba(0,0,0,0.5)";
+export const mainBlue = "#4C7FFF";
+export const lightBackgroundBlue = "#F5F9FE";
+export const darkBlue = "#1950DB";
+export const borderGrey = "#BBBFC7";
+export const lightGrey = "#ACAFC1";
+export const darkGrey = "#323232";
+export const grey = "#4B4B4B";
+export const errorColor = "#F1682C";
+export const successColor = "#7AE092";
+export const shadow = "#E5E9F2";
+export const white = "#FCFCFC";
+export const inputBackground = "#F5F6FA";
+export const lightBlue = "#A9C2FF";

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "type": "dip_form",
+    "id": "6da2ead2-c3d8-48e8-994c-07370d95e9de",
+    "attributes": {
+      "application": {
+        "date_created": "2020-07-21T12:29:15.933Z",
+        "type_of_introducer": "direct_application",
+        "fk_broker_id": null,
+        "dip_id": 3,
+        "dip_form_id": "6da2ead2-c3d8-48e8-994c-07370d95e9de",
+        "case_nr": "10059-UCRE",
+        "additional_information": null,
+        "stage": "application",
+        "editing_as_dip": false,
+        "fk_case_id": 3,
+        "fk_contact_id": 3,
+        "fk_loan_property_development_id": 3,
+        "loan_advance_type": "single",
+        "type_of_applicant": "company",
+        "contact_id": 3,
+        "company_number": "08503849",
+        "building_type": "non_development",
+        "fk_loan_financial_details_id": 3,
+        "loan_term": 10,
+        "type_of_loan": "serviced",
+        "market_value": 500000,
+        "start_date": "2020-07-21T00:00:00.000Z",
+        "further_advances": null,
+        "loan_purpose": "refinance",
+        "value_type_of_loan_amount": null,
+        "starting_point": "market_value",
+        "initial_net_loan_amount": null,
+        "gross_loan_amount": 350000,
+        "estimated_interest": 3500,
+        "purchase_price": null,
+        "arrangement_fee_advance_date_value": null,
+        "arrangement_fee_advance_date_percent": 1,
+        "arrangement_fee_repayment_date_value": null,
+        "interest_rate": 1,
+        "title_insurance_fee": null,
+        "legal_fee": null,
+        "intermediary_commission_fee_value": 0,
+        "intermediary_commission_fee_percent": null,
+        "completion_administration_fee": 400,
+        "premium_for_lenders_insurance": 250,
+        "max_ltv": 70,
+        "fk_loan_financial_details_dev_id": 3,
+        "fk_hybrid_terms": 3,
+        "fk_loan_financial_details_multi_id": 3,
+        "is_manual_mode": null,
+        "further_draw_downs_borrowing": null,
+        "initial_net_loan": null,
+        "term": null,
+        "purpose_of_borrowings": null,
+        "source_of_deposit": null,
+        "repayment_method": null,
+        "repayment_method_details": null,
+        "proposed_completion_date": null,
+        "exit_fee_intermediary": null,
+        "ltv_to_gdv": null,
+        "loan_property_development_id": 3,
+        "progress_report": null,
+        "build_period": null,
+        "appraisal_report": null,
+        "loan_financial_details_multi_id": 3,
+        "further_draw_downs": null,
+        "status": "in_progress",
+        "broker_id": null,
+        "broker_company_name": null,
+        "broker_name": null,
+        "broker_email": null,
+        "firm": null,
+        "introducer": null,
+        "address_line_1": null,
+        "address_line_2": null,
+        "city": null,
+        "postcode": null,
+        "country": null,
+        "phone_number": null,
+        "email": null,
+        "interim_permission_number": null,
+        "have_met_client": null,
+        "s_company_name": null,
+        "s_contact_name": null,
+        "s_are_least_two_partners": null,
+        "s_address_line_1": null,
+        "s_address_line_2": null,
+        "s_city": null,
+        "s_postcode": null,
+        "s_country": null,
+        "s_phone_number": null,
+        "s_email": null,
+        "id": "6da2ead2-c3d8-48e8-994c-07370d95e9de",
+        "gross_amount": 350000,
+        "applicants": [
+          {
+            "contact_value_id": 5,
+            "fk_contact_id": 3,
+            "name": "UCREATE LIMITED",
+            "email": "bartek@ucreate.it",
+            "phone": null,
+            "contact_method": null,
+            "home_phone": null,
+            "mobile_phone": null,
+            "work_phone": null,
+            "number_of_dependants": null
+          }
+        ],
+        "name": [
+          {
+            "contact_value_id": 5,
+            "fk_contact_id": 3,
+            "name": "UCREATE LIMITED",
+            "email": "bartek@ucreate.it",
+            "phone": null,
+            "contact_method": null,
+            "home_phone": null,
+            "mobile_phone": null,
+            "work_phone": null,
+            "number_of_dependants": null
+          }
+        ],
+        "hybrid_option": {
+          "loan_financial_hybrid_terms_id": 3,
+          "retained": null,
+          "serviced": null,
+          "rolled_up": null
+        },
+        "securities": [
+          {
+            "isManualEditVisible": false,
+            "security_address": null,
+            "security_address_line_1": "41, Piccadilly",
+            "security_address_line_2": "Greater London, England",
+            "security_town_city": "London",
+            "security_postcode": "W1J 0DS",
+            "security_country": "united kingdom",
+            "security_initial_estimation": 500000,
+            "security_type": "land",
+            "opfl_charge_type": "first_charge",
+            "gdv": null,
+            "value_existing_mortgage": null
+          }
+        ],
+        "case_stage": "application",
+        "calculator_response": {
+          "advanced_interest": 3500,
+          "arrangement_fee_in_value": 3465.35,
+          "broker_fee_in_value": 5198.02,
+          "broker_fee_out_value": 5198.02,
+          "exit_fee_value": 0,
+          "gross_amount_of_first_advance": 350000,
+          "gross_day_one_ltv": 0.7,
+          "gross_loan": 350000,
+          "gross_loan_first_advance": 350000,
+          "max_total_net_loan_available": null,
+          "net_amount_of_first_advance": 345884.65,
+          "total_fees": 650,
+          "total_loan_amount": 345884.65,
+          "total_loan_facility": 350000,
+          "intermediary_commission_fee_value": 0,
+          "drawdowns": []
+        },
+        "application_loan_details": {
+          "further_draw_downs_borrowing": null,
+          "initial_net_loan": null,
+          "term": null,
+          "purpose_of_borrowings": null,
+          "source_of_deposit": null,
+          "repayment_method": null,
+          "repayment_method_details": null,
+          "proposed_completion_date": null
+        },
+        "introducer_details": {
+          "firm": null,
+          "introducer": null,
+          "address_line_1": null,
+          "address_line_2": null,
+          "city": null,
+          "postcode": null,
+          "country": null,
+          "phone_number": null,
+          "email": null,
+          "interim_permission_number": null,
+          "have_met_client": null
+        },
+        "solicitor_details": {
+          "contact_name": null,
+          "company_name": null,
+          "address_line_1": null,
+          "address_line_2": null,
+          "city": null,
+          "postcode": null,
+          "country": null,
+          "phone_number": null,
+          "email": null,
+          "are_least_two_partners": null
+        },
+        "summary": {},
+        "properties": [],
+        "steps": [
+          {
+            "name": "applicant_details",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "company_details",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Edited"
+          },
+          {
+            "name": "loan_details",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "security_details",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "credit_history",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "solicitor_details",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "additional_information",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "declarations",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          },
+          {
+            "name": "assets_and_liabilities",
+            "edited": "2020-07-21T12:30:06.787Z",
+            "status": "Imported"
+          }
+        ]
+      }
+    }
+  }
+}

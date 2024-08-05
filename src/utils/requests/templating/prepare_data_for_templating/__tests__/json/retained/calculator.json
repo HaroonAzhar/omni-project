@@ -1,0 +1,23 @@
+{
+  "calculatorResponse": {
+    "advanced_interest": 36889.7,
+    "arrangement_fee_in_value": 5000,
+    "broker_fee_in_value": 4611.21,
+    "broker_fee_out_value": 4611.21,
+    "exit_fee_value": 2000,
+    "gross_amount_of_first_advance": 73000.01,
+    "gross_day_one_ltv": 0.75,
+    "gross_loan": 73000.01,
+    "gross_loan_first_advance": 73000.01,
+    "net_amount_of_first_advance": 30460.31,
+    "total_fees": 650,
+    "total_loan_amount": 30460.31,
+    "total_loan_facility": 73000.01,
+    "intermediary_commission_fee_value": 0,
+    "drawdowns": [],
+    "xirr": 1.4166,
+    "repayment_date": "Wed, 17 Nov 2021 14:05:22 GMT",
+    "maturity_date": "Tue, 16 Nov 2021 14:05:22 GMT",
+    "gdltv": 0
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "whichApplicantStepToShow": "individual",
+  "value_type_of_arrangement_fee_advance_date": "percent",
+  "arrangement_fee_advance_date": 1,
+  "date_created": "2020-11-12T14:28:43.100Z",
+  "type_of_introducer": "direct_application",
+  "dip_id": 1119,
+  "dip_form_id": "64db4d52-909b-45ff-9c8e-a369fcee87a3",
+  "case_nr": "10063-OLMA",
+  "stage": "case_summary",
+  "editing_as_dip": false,
+  "fk_case_id": 1129,
+  "fk_contact_id": 1120,
+  "fk_loan_property_development_id": 1120,
+  "loan_advance_type": "single",
+  "type_of_applicant": "individual",
+  "contact_id": 1120,
+  "building_type": "non_development",
+  "fk_loan_financial_details_id": 1119,
+  "loan_term": 10,
+  "type_of_loan": "serviced",
+  "market_value": 500000,
+  "start_date": "2020-11-13",
+  "loan_purpose": "capital_raising",
+  "starting_point": "market_value",
+  "gross_loan_amount": 371287.13,
+  "estimated_interest": 3712.87,
+  "arrangement_fee_advance_date_percent": 1,
+  "interest_rate": 1,
+  "intermediary_commission_fee_value": 0,
+  "completion_administration_fee": 400,
+  "premium_for_lenders_insurance": 250,
+  "max_ltv": 75,
+  "fk_loan_financial_details_dev_id": 1120,
+  "fk_hybrid_terms": 1119,
+  "fk_loan_financial_details_multi_id": 1119,
+  "is_manual_mode": false,
+  "further_draw_downs_borrowing": 200000,
+  "initial_net_loan": 211072.64,
+  "term": 10,
+  "purpose_of_borrowings": "Capital raising for other things.",
+  "loan_property_development_id": 1120,
+  "loan_financial_details_multi_id": 1119,
+  "status": "in_progress",
+  "s_are_least_two_partners": true,
+  "s_country": "united kingdom",
+  "s_omni_solicitor_id": 1036,
+  "id": "64db4d52-909b-45ff-9c8e-a369fcee87a3",
+  "gross_amount": 371287.13,
+  "applicants": [
+    {
+      "contact_value_id": 4553,
+      "fk_contact_id": 1120,
+      "name": "Bartek Olma",
+      "email": "a@g.c"
+    }
+  ],
+  "name": [
+    {
+      "contact_value_id": 4553,
+      "fk_contact_id": 1120,
+      "name": "Bartek Olma",
+      "email": "a@g.c"
+    }
+  ],
+  "hybrid_option": { "loan_financial_hybrid_terms_id": 1119 },
+  "securities": [
+    {
+      "isManualEditVisible": false,
+      "security_address_line_1": "B 2 B Cashflow Solutions Ltd",
+      "security_address_line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+      "security_town_city": "Norwich",
+      "security_postcode": "NR14 7PZ",
+      "security_country": "united kingdom",
+      "security_initial_estimation": 500000,
+      "security_type": "commercial",
+      "opfl_charge_type": "first_charge",
+      "gdv": 700000
+    }
+  ],
+  "case_stage": "case_summary",
+  "application_loan_details": {
+    "further_draw_downs_borrowing": 200000,
+    "initial_net_loan": 211072.64,
+    "term": 10,
+    "purpose_of_borrowings": "Capital raising for other things."
+  },
+  "introducer_details": {},
+  "solicitor_details": {
+    "country": "united kingdom",
+    "omni_solicitor_id": 1036,
+    "are_least_two_partners": true
+  },
+  "summary": {
+    "overview": { "start_case_summary_date": "2020-11-17T14:05:57.063Z" },
+    "security": {},
+    "loan": { "servicing_method_rationale": "<p>Rationale</p>" },
+    "risk_mitigations": {},
+    "further_comments": {},
+    "borrower": {}
+  },
+  "properties": [
+    {
+      "id": 1511,
+      "date_edited": "2020-11-13T10:07:19.293Z",
+      "status": "Recheck",
+      "valuation_report": {},
+      "details": {
+        "already_owned": true,
+        "being_purchased": false,
+        "current_value": 500000,
+        "value_after_works": 700000,
+        "security_type": "commercial",
+        "selected_contact_for_access_valuation": "manual",
+        "selected_contact_for_payment_valuation": "manual",
+        "payment_contact_details_same_as_access_valuation": false
+      },
+      "address": {
+        "line_1": "B 2 B Cashflow Solutions Ltd",
+        "line_2": "Manor Farm Barns, Fox Road, Framingham Pigot",
+        "postcode": "NR14 7PZ",
+        "city": "Norwich",
+        "country": "united kingdom"
+      },
+      "charge": {
+        "opfl_charge_type": "first_charge",
+        "lenders": [{}],
+        "security_owner": "applicant"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "id": 2156,
+      "name": "applicant_details",
+      "edited": "2020-11-13T10:07:39.249Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2157,
+      "name": "credit_history",
+      "edited": "2020-11-13T10:06:52.708Z",
+      "status": "New"
+    },
+    {
+      "id": 2158,
+      "name": "security_details",
+      "edited": "2020-11-13T10:07:19.403Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2159,
+      "name": "loan_details",
+      "edited": "2020-11-13T12:31:28.512Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2160,
+      "name": "solicitor_details",
+      "edited": "2020-11-13T11:56:02.000Z",
+      "status": "Recheck"
+    },
+    {
+      "id": 2161,
+      "name": "additional_information",
+      "edited": "2020-11-13T10:06:52.709Z",
+      "status": "New"
+    },
+    {
+      "id": 2162,
+      "name": "declarations",
+      "edited": "2020-11-13T10:06:52.709Z",
+      "status": "New"
+    },
+    {
+      "id": 2163,
+      "name": "assets_and_liabilities",
+      "edited": "2020-11-13T10:06:52.710Z",
+      "status": "New"
+    },
+    {
+      "id": 2164,
+      "name": "valuation_report",
+      "edited": "2020-11-13T10:06:52.710Z",
+      "status": "New"
+    },
+    {
+      "id": 2165,
+      "name": "aml_kyc",
+      "edited": "2020-11-13T10:06:52.710Z",
+      "status": "New"
+    }
+  ],
+  "aml_kyc_validation": {},
+  "individuals": [
+    {
+      "applicant_id": 3693,
+      "status": "Recheck",
+      "date_edited": "2020-11-13T10:07:39.019Z",
+      "links": "Bartek Olma",
+      "personal_data": {
+        "title": null,
+        "forename": "Bartek",
+        "middle_name": null,
+        "surname": "Olma",
+        "other_name": null,
+        "date_of_birth": "0001-11-12",
+        "city_of_birth": null,
+        "country_of_birth": null,
+        "insurance_number": null,
+        "nationality": null,
+        "second_nationality": null,
+        "has_dual_nationality": null,
+        "permanent_resident": null,
+        "marital_status": null,
+        "marital_other_value": null,
+        "uk_residential_status": null,
+        "information_regarding_property_residence": null,
+        "mothers_maiden_name": null
+      },
+      "contact": {
+        "email": "a@g.c",
+        "home_phone": null,
+        "mobile_phone": null,
+        "work_phone": null,
+        "contact_method": null,
+        "number_of_dependants": null
+      },
+      "declarations_signatures": {
+        "declaration": null,
+        "signature": null,
+        "date_of_signature": null,
+        "date_of_declaration": null
+      },
+      "addresses": [
+        {
+          "address_line_1": null,
+          "address_line_2": null,
+          "postcode": null,
+          "city": null,
+          "country": "united kingdom",
+          "how_long_here_months": null,
+          "how_long_here_years": 5
+        }
+      ],
+      "liabilities": [],
+      "assets": [],
+      "property_portfolio": []
+    }
+  ],
+  "company": []
+}
